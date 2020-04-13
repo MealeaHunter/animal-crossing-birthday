@@ -22,8 +22,8 @@ function TodaysBirthday() {
     <div>
       <Grid
         container
+        spacing={3}
         direction="column"
-        justify="center"
         alignItems="center"
       >
         <Grid item xs={12}>
@@ -38,17 +38,13 @@ function TodaysBirthday() {
               <CardMedia
                 component="img"
                 alt="Animal Crossing Character"
-                height="140"
-                image="/static/images/cards/contemplative-reptile.jpg"
+                height="200"
+                image="https://nookipedia.com/w/images/9/95/Isabelle_NH.png"
                 title="Animal Crossing Character"
               />
               <CardContent>
                 <Typography gutterBottom variant="h5" component="h2">
-                  Lizard
-                </Typography>
-                <Typography variant="body2" color="textSecondary" component="p">
-                  Lizards are a widespread group of squamate reptiles, with over
-                  6,000 species, ranging across all continents except Antarctica
+                  Isabelle
                 </Typography>
               </CardContent>
             </CardActionArea>
@@ -59,7 +55,7 @@ function TodaysBirthday() {
             </CardActions>
           </Card>
         </Grid>
-        
+
         <Grid item xs={12}>
           <Typography variant="h5" noWrap>
             April 12th
