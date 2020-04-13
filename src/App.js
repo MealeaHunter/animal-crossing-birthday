@@ -7,7 +7,7 @@ import UsersBirthday from "./components/users-birthday.js";
 
 function App() {
   return (
-    <div className="App">
+    <div id="Home" className="App">
         <Header />
         <TodaysBirthday />
         <UsersBirthday />
