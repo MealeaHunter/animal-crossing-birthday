@@ -52,8 +52,8 @@ function Header() {
           Animal Crossing Birthdays
         </Typography>
 
-        <IconButton edge="end" className={classes.button} color="inherit" aria-label="menu">
-          <MenuIcon onClick={onMenuClick} />
+        <IconButton onClick={onMenuClick} className={classes.button} color="inherit" aria-label="menu">
+          <MenuIcon />
         </IconButton>
 
         <Popover

@@ -6,6 +6,7 @@ import Grid from "@material-ui/core/Grid";
 import Button from "@material-ui/core/Button";
 import EcoIcon from "@material-ui/icons/Eco";
 import { makeStyles } from "@material-ui/core/styles";
+import { Link } from "react-router-dom";
 
 const useStyles = makeStyles((theme) => ({
     container: {
@@ -47,7 +48,7 @@ function UsersBirthday() {
 
             <Grid item className={classes.item}>
                 <Button variant="contained" className={classes.button} onClick={onSearchBirthday} startIcon={<EcoIcon />}>
-                    Let's Go!
+                    <Link to="/CharacterBirthday">Let's Go!</Link>
                 </Button>
             </Grid>
         </Grid>
