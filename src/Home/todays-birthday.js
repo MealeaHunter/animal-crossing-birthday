@@ -13,6 +13,9 @@ const useStyles = makeStyles({
   root: {
     maxWidth: 345,
   },
+  link: {
+    color: "#3f948d"
+  }
 });
 
 function TodaysBirthday() {
@@ -40,8 +43,8 @@ function TodaysBirthday() {
                 <Typography variant="h5" component="h2">
                     Isabelle
                 </Typography>
-                <Button size="small" color="primary">
-                    <Link to="/CharacterInfo">Learn More</Link>
+                <Button size="small">
+                    <Link className={classes.link} to="/CharacterInfo">Learn More</Link>
                 </Button>
             </CardActions>
           </Card>

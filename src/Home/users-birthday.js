@@ -18,6 +18,9 @@ const useStyles = makeStyles((theme) => ({
     button: {
         backgroundColor: "#7CC9C3",
         color: "#FFF"
+    },
+    link: {
+      color: "#FFF"
     }
   }));
 
@@ -48,7 +51,7 @@ function UsersBirthday() {
 
             <Grid item className={classes.item}>
                 <Button variant="contained" className={classes.button} onClick={onSearchBirthday} startIcon={<EcoIcon />}>
-                    <Link to="/CharacterBirthday">Let's Go!</Link>
+                    <Link className={classes.link} to="/CharacterBirthday">Let's Go!</Link>
                 </Button>
             </Grid>
         </Grid>

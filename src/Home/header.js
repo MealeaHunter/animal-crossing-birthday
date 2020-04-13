@@ -33,6 +33,9 @@ function Header() {
     },
     button: {
         padding: 0
+    },
+    link: {
+      color: "#3f948d"
     }
   }));
 
@@ -76,10 +79,10 @@ function Header() {
                 onKeyDown={handleListKeyDown}
               >
                 <MenuItem onClick={handleClose}>
-                  <Link to="/">Home</Link>
+                  <Link className={classes.link} to="/">Home</Link>
                 </MenuItem>
                 <MenuItem onClick={handleClose}>
-                  <Link to="/Events">Events</Link>
+                  <Link className={classes.link} to="/Events">Events</Link>
                 </MenuItem>
               </MenuList>
             </ClickAwayListener>
