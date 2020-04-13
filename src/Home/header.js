@@ -10,7 +10,7 @@ import ClickAwayListener from "@material-ui/core/ClickAwayListener";
 import Paper from "@material-ui/core/Paper";
 import MenuItem from "@material-ui/core/MenuItem";
 import MenuList from "@material-ui/core/MenuList";
-import { Link } from "@material-ui/core";
+import { Link } from "react-router-dom";
 
 function Header() {
   const [menuAnchorEl, menuSetAnchorEl] = useState(null);
@@ -49,7 +49,7 @@ function Header() {
     <AppBar className={classes.grow} position="static">
       <Toolbar>
         <Typography variant="h6" className={classes.grow} noWrap>
-          <Link href="#Home" color="inherit">Animal Crossing Birthdays</Link>
+          Animal Crossing Birthdays
         </Typography>
 
         <IconButton edge="end" className={classes.button} color="inherit" aria-label="menu">
@@ -75,9 +75,12 @@ function Header() {
                 id="header-menu"
                 onKeyDown={handleListKeyDown}
               >
-                <MenuItem onClick={handleClose}>Home</MenuItem>
-                <MenuItem onClick={handleClose}>Events</MenuItem>
-                <MenuItem onClick={handleClose}>Your Birthday</MenuItem>
+                <MenuItem onClick={handleClose}>
+                  <Link to="/">Home</Link>
+                </MenuItem>
+                <MenuItem onClick={handleClose}>
+                  <Link to="/Events">Events</Link>
+                </MenuItem>
               </MenuList>
             </ClickAwayListener>
           </Paper>
