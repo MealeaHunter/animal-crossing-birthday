@@ -18,15 +18,18 @@ const useStyles = makeStyles({
   }
 });
 
-function TodaysBirthday() {
+const todaysDate = new Date();
+
+function TodaysBirthday(props) {
   const classes = useStyles();
+  console.log(props);
 
   return (
     <div className="todays-birthday">
       <Grid container spacing={2} direction="column" alignItems="center">
         <Grid item xs={12}>
           <Typography variant="h5" noWrap>
-            Happy Birthday
+            { props.today.events ? props.today.events[0] : '' }
           </Typography>
         </Grid>
 
@@ -36,24 +39,18 @@ function TodaysBirthday() {
               component="img"
               alt="Animal Crossing Character"
               height="200"
-              image="https://nookipedia.com/w/images/9/95/Isabelle_NH.png"
+              image={props.today.villager_images ? props.today.villager_images[0] : ''}
               title="Animal Crossing Character"
             />
             <CardActions disableSpacing>
                 <Typography variant="h5" component="h2">
-                    Isabelle
+                    {todaysDate.toDateString().slice(0, -4)}
                 </Typography>
                 <Button size="small">
                     <Link className={classes.link} to="/CharacterInfo">Learn More</Link>
                 </Button>
             </CardActions>
           </Card>
-        </Grid>
-
-        <Grid item xs={12}>
-          <Typography variant="h5" noWrap>
-            April 12th
-          </Typography>
         </Grid>
       </Grid>
     </div>
