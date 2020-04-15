@@ -5,14 +5,14 @@ import axios from "axios";
 
 class Home extends Component {
   state = {
-    characters: [],
+    events: [],
   };
 
   componentDidMount() {
     axios.get(`/api/today/?api_key=${process.env.REACT_APP_AC}`)
       .then((response) => {
-        const characters = response.data;
-        this.setState({ characters });
+        const events = response.data;
+        this.setState({ events });
       })
       .catch((error) => {
         console.log(error);
@@ -22,7 +22,7 @@ class Home extends Component {
   render() {
     return (
       <div>
-        <TodaysBirthday today={this.state.characters} />
+        <TodaysBirthday today={this.state.events} />
         <UsersBirthday />
       </div>
     );

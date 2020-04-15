@@ -8,28 +8,27 @@ import Button from "@material-ui/core/Button";
 import { makeStyles } from "@material-ui/core/styles";
 import "./todays-birthday.scss";
 import { Link } from "react-router-dom";
+import villagersBirthday from "../Shared/map-birthdays";
 
 const useStyles = makeStyles({
   root: {
-    maxWidth: 345,
+    width: 345,
   },
   link: {
-    color: "#3f948d"
-  }
+    color: "#3f948d",
+  },
 });
 
-const todaysDate = new Date();
-
-function TodaysBirthday(props) {
+const TodaysBirthday = () => {
   const classes = useStyles();
-  console.log(props);
+  const info = villagersBirthday();
 
   return (
     <div className="todays-birthday">
       <Grid container spacing={2} direction="column" alignItems="center">
         <Grid item xs={12}>
           <Typography variant="h5" noWrap>
-            { props.today.events ? props.today.events[0] : '' }
+            Today's Birthday
           </Typography>
         </Grid>
 
@@ -39,22 +38,30 @@ function TodaysBirthday(props) {
               component="img"
               alt="Animal Crossing Character"
               height="200"
-              image={props.today.villager_images ? props.today.villager_images[0] : ''}
+              image={info["villager-img-src"]}
               title="Animal Crossing Character"
             />
             <CardActions disableSpacing>
-                <Typography variant="h5" component="h2">
-                    {todaysDate.toDateString().slice(0, -4)}
-                </Typography>
-                <Button size="small">
-                    <Link className={classes.link} to="/CharacterInfo">Learn More</Link>
-                </Button>
+              <Typography variant="h5" component="h2">
+                {info.name}
+              </Typography>
+              <Button size="small">
+                <a className={classes.link} href={info["name-href"]}>
+                  Learn More
+                </a>
+              </Button>
             </CardActions>
           </Card>
+        </Grid>
+
+        <Grid item xs={12}>
+          <Typography variant="h5" noWrap>
+            {info.birthday}
+          </Typography>
         </Grid>
       </Grid>
     </div>
   );
-}
+};
 
 export default TodaysBirthday;
