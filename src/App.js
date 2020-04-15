@@ -8,7 +8,6 @@ import {
 } from "react-router-dom";
 import TodaysEvent from "./TodaysEvent/TodaysEvent";
 import CharacterBirthday from "./CharacterBirthday/CharacterBirthday";
-import CharacterInfo from "./CharacterInfo/CharacterInfo";
 import Home from "./Home/Home";
 import Header from "./Home/header";
 
@@ -23,7 +22,6 @@ class App extends Component {
             <Route exact={true} path="/" component={Home} />
             <Route path="/Events" component={TodaysEvent} />
             <Route path="/CharacterBirthday" component={CharacterBirthday} />
-            <Route path="/CharacterInfo" component={CharacterInfo} />
           </Switch>
         </Router>
       </div>

@@ -11,7 +11,10 @@
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
+    "axios": "^0.19.2",
+    "cors": "^2.8.5",
     "cross-fetch": "^3.0.4",
+    "datejs": "^1.0.0-rc3",
     "moment": "^2.24.0",
     "node-sass": "^4.13.1",
     "react": "^16.13.1",
@@ -26,6 +29,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "proxy": "https://nookipedia.com/",
   "eslintConfig": {
     "extends": "react-app"
   },
