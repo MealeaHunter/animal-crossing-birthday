@@ -7,7 +7,6 @@ import CardMedia from "@material-ui/core/CardMedia";
 import Button from "@material-ui/core/Button";
 import { makeStyles } from "@material-ui/core/styles";
 import "./todays-birthday.scss";
-import { Link } from "react-router-dom";
 import villagersBirthday from "../Shared/map-birthdays";
 
 const useStyles = makeStyles({
