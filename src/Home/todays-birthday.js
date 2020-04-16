@@ -18,7 +18,7 @@ const useStyles = makeStyles({
   },
 });
 
-const TodaysBirthday = () => {
+function TodaysBirthday() {
   const classes = useStyles();
   const info = villagersBirthday();
 

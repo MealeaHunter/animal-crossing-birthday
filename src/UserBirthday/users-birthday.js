@@ -7,6 +7,7 @@ import Button from "@material-ui/core/Button";
 import EcoIcon from "@material-ui/icons/Eco";
 import { makeStyles } from "@material-ui/core/styles";
 import { Link } from "react-router-dom";
+import moment from "moment";
 
 const useStyles = makeStyles((theme) => ({
   container: {
@@ -23,6 +24,12 @@ const useStyles = makeStyles((theme) => ({
     color: "#FFF",
   },
 }));
+
+class LocalizedUtils extends MomentUtils {
+  getDatePickerHeaderText(date) {
+    return moment(date).format("ll");
+  }
+}
 
 function UsersBirthday() {
   const [selectedDate, handleDateChange] = useState(new Date());
@@ -50,7 +57,7 @@ function UsersBirthday() {
           justify="center"
           className={classes.container}
         >
-          <MuiPickersUtilsProvider utils={MomentUtils}>
+          <MuiPickersUtilsProvider utils={LocalizedUtils}>
             <DatePicker
               label="Your Birthday"
               value={selectedDate}
@@ -62,12 +69,15 @@ function UsersBirthday() {
             <Button
               variant="contained"
               className={classes.button}
+              onClick={() => handleDateChange}
               startIcon={<EcoIcon />}
             >
               <Link
                 className={classes.link}
-                state={selectedDate}
-                to="/CharacterBirthday"
+                to={{
+                  pathname: "/CharacterBirthday",
+                  selectedDate
+                }}
               >
                 Let's Go!
               </Link>

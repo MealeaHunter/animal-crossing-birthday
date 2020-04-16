@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import TodaysBirthday from "./todays-birthday.js";
-import UsersBirthday from "./users-birthday.js";
+import UsersBirthday from "../UserBirthday/users-birthday.js";
 import axios from "axios";
 
 class Home extends Component {
@@ -22,7 +22,7 @@ class Home extends Component {
   render() {
     return (
       <div>
-        <TodaysBirthday today={this.state.events} />
+        <TodaysBirthday />
         <UsersBirthday />
       </div>
     );
