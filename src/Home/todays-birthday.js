@@ -37,15 +37,15 @@ function TodaysBirthday() {
               component="img"
               alt="Animal Crossing Character"
               height="200"
-              image={info["villager-img-src"]}
+              image={info ? info["villager-img-src"] : ""}
               title="Animal Crossing Character"
             />
             <CardActions disableSpacing>
               <Typography variant="h5" component="h2">
-                {info.name}
+                {info ? info.name : ''}
               </Typography>
               <Button size="small">
-                <a className={classes.link} href={info["name-href"]}>
+                <a className={classes.link} href={info ? info["name-href"] : ''} target="_blank">
                   Learn More
                 </a>
               </Button>
@@ -55,7 +55,7 @@ function TodaysBirthday() {
 
         <Grid item xs={12}>
           <Typography variant="h5" noWrap>
-            {info.birthday}
+            {info ? info.birthday : ''}
           </Typography>
         </Grid>
       </Grid>
