@@ -86,7 +86,7 @@ class CharacterBirthday extends React.Component {
             </Typography>
           </Grid>
         </Grid>
-      </div> : ''
+      </div> : 'ww'
     );
   }
 }
