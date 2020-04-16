@@ -44,7 +44,7 @@ function UsersBirthday() {
         alignItems="center"
       >
         <Grid item>
-          Enter your birthday and find out with Animal Crossing character has
+          Enter your birthday and find out which Animal Crossing character has
           the same birthday as you!
         </Grid>
 
