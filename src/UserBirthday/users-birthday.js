@@ -10,6 +10,7 @@ import { Link } from "react-router-dom";
 import moment from "moment";
 import PickerToolbar from "@material-ui/pickers/_shared/PickerToolbar";
 import ToolbarButton from "@material-ui/pickers/_shared/ToolbarButton";
+import './users-birthday.scss';
 
 const useStyles = makeStyles((theme) => ({
   container: {
@@ -48,10 +49,10 @@ const CustomToolbar = function (props) {
       isLandscape={isLandscape}
     >
       <ToolbarButton
-        onClick={handleChangeViewClick("date")}
+        onClick={handleChangeViewClick("month")}
         variant="h4"
         selected={openView === "date"}
-        label={date.format("MMM Do")}
+        label={date.format("MMMM")}
       />
     </PickerToolbar>
   );
@@ -59,7 +60,7 @@ const CustomToolbar = function (props) {
 
 class LocalizedUtils extends MomentUtils {
   getDatePickerHeaderText(date) {
-    return moment(date).format("ll");
+    return moment(date).format("MMM Do");
   }
 }
 
@@ -94,6 +95,8 @@ function UsersBirthday() {
               label="Your Birthday"
               value={selectedDate}
               onChange={handleDateChange}
+              views={["month", "date"]}
+              openTo="month"
               ToolbarComponent={CustomToolbar}
             />
           </MuiPickersUtilsProvider>
