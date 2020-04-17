@@ -65,7 +65,7 @@ class CharacterBirthday extends React.Component {
                   {character.name}
                 </Typography>
                 <Button size="small">
-                  <a href={character["name-href"]} target="_blank">Learn More</a>
+                  <a href={character["name-href"]} without rel="noopener noreferrer" target="_blank">Learn More</a>
                 </Button>
               </CardActions>
             </Card>

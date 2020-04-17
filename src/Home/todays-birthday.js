@@ -45,7 +45,7 @@ function TodaysBirthday() {
                 {info ? info.name : ''}
               </Typography>
               <Button size="small">
-                <a className={classes.link} href={info ? info["name-href"] : ''} target="_blank">
+                <a className={classes.link} href={info ? info["name-href"] : ''} without rel="noopener noreferrer" target="_blank">
                   Learn More
                 </a>
               </Button>
