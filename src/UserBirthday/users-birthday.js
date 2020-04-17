@@ -8,6 +8,8 @@ import EcoIcon from "@material-ui/icons/Eco";
 import { makeStyles } from "@material-ui/core/styles";
 import { Link } from "react-router-dom";
 import moment from "moment";
+import PickerToolbar from "@material-ui/pickers/_shared/PickerToolbar";
+import ToolbarButton from "@material-ui/pickers/_shared/ToolbarButton";
 
 const useStyles = makeStyles((theme) => ({
   container: {
@@ -16,6 +18,11 @@ const useStyles = makeStyles((theme) => ({
   item: {
     paddingLeft: theme.spacing(2),
   },
+  toolbar: {
+		display: "flex",
+		flexDirection: "column",
+		alignItems: "flex-start"
+	},
   button: {
     backgroundColor: "#7CC9C3",
     color: "#FFF",
@@ -24,6 +31,31 @@ const useStyles = makeStyles((theme) => ({
     color: "#FFF",
   },
 }));
+
+const CustomToolbar = function (props) {
+  const { date, isLandscape, openView, setOpenView, title } = props;
+
+  const handleChangeViewClick = (view) => (e) => {
+    setOpenView(view);
+  };
+
+  const classes = useStyles();
+
+  return (
+    <PickerToolbar
+      className={classes.toolbar}
+      title={title}
+      isLandscape={isLandscape}
+    >
+      <ToolbarButton
+        onClick={handleChangeViewClick("date")}
+        variant="h4"
+        selected={openView === "date"}
+        label={date.format("MMM Do")}
+      />
+    </PickerToolbar>
+  );
+};
 
 class LocalizedUtils extends MomentUtils {
   getDatePickerHeaderText(date) {
@@ -62,6 +94,7 @@ function UsersBirthday() {
               label="Your Birthday"
               value={selectedDate}
               onChange={handleDateChange}
+              ToolbarComponent={CustomToolbar}
             />
           </MuiPickersUtilsProvider>
 
@@ -76,7 +109,7 @@ function UsersBirthday() {
                 className={classes.link}
                 to={{
                   pathname: "/CharacterBirthday",
-                  selectedDate
+                  selectedDate,
                 }}
               >
                 Let's Go!
