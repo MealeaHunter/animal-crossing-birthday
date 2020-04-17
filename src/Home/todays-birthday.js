@@ -26,7 +26,7 @@ function TodaysBirthday() {
     <div className="todays-birthday">
       <Grid container spacing={2} direction="column" alignItems="center">
         <Grid item xs={12}>
-          <Typography variant="h5" noWrap>
+          <Typography variant="h5">
             Today's Birthday
           </Typography>
         </Grid>
@@ -54,7 +54,7 @@ function TodaysBirthday() {
         </Grid>
 
         <Grid item xs={12}>
-          <Typography variant="h5" noWrap>
+          <Typography variant="h5">
             {info ? info.birthday : ''}
           </Typography>
         </Grid>

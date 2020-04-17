@@ -11,7 +11,7 @@ function villagersBirthday() {
         Date.parse(characterData[i].birthday).toDateString() ===
         todaysDate.toDateString()
       ) {
-        todaysBirthday = characterData[i]
+        todaysBirthday = characterData[i];
         return todaysBirthday;
       }
     }

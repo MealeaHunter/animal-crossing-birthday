@@ -8,15 +8,6 @@ import CardMedia from "@material-ui/core/CardMedia";
 import Button from "@material-ui/core/Button";
 import "../Home/todays-birthday.scss";
 
-// const useStyles = makeStyles({
-//   root: {
-//     width: 345,
-//   },
-//   link: {
-//     color: "#3f948d",
-//   },
-// });
-
 class CharacterBirthday extends React.Component {
   constructor(props) {
     super(props);
@@ -55,7 +46,7 @@ class CharacterBirthday extends React.Component {
       <div className="character-birthday">
         <Grid container spacing={2} direction="column" alignItems="center">
           <Grid item xs={12}>
-            <Typography variant="h5" noWrap>
+            <Typography variant="h5">
               You have the same birthday as {character.name}!
             </Typography>
           </Grid>
@@ -81,12 +72,12 @@ class CharacterBirthday extends React.Component {
           </Grid>
 
           <Grid item xs={12}>
-            <Typography variant="h5" noWrap>
+            <Typography variant="h5">
               {character.birthday}
             </Typography>
           </Grid>
         </Grid>
-      </div> : 'ww'
+      </div> : 'No Character has the same birthday as you :('
     );
   }
 }
