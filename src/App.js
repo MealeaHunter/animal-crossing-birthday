@@ -7,9 +7,9 @@ import {
   Switch
 } from "react-router-dom";
 import TodaysEvent from "./TodaysEvent/TodaysEvent";
-import CharacterBirthday from "./CharacterBirthday/CharacterBirthday";
+import CharacterBirthday from "./UserBirthday/character-birthday";
 import Home from "./Home/Home";
-import Header from "./Home/header";
+import Header from "./Shared/header";
 
 class App extends Component {
   render() {

@@ -3,15 +3,22 @@ const characterData = require("../data/villagers.json");
 const todaysDate = new Date();
 
 function villagersBirthday() {
+    let todaysBirthday = null;
+
   for (var i = 0; i < characterData.length; i++) {
-    if (characterData[i].birthday != null) {
+    if (characterData[i].birthday) {
       if (
         Date.parse(characterData[i].birthday).toDateString() ===
         todaysDate.toDateString()
       ) {
-        return characterData[i];
+        todaysBirthday = characterData[i];
+        return todaysBirthday;
       }
     }
+  }
+
+  if (!todaysBirthday) {
+      return null;
   }
 }
 

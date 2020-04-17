@@ -18,7 +18,7 @@ const useStyles = makeStyles({
   },
 });
 
-const TodaysBirthday = () => {
+function TodaysBirthday() {
   const classes = useStyles();
   const info = villagersBirthday();
 
@@ -26,7 +26,7 @@ const TodaysBirthday = () => {
     <div className="todays-birthday">
       <Grid container spacing={2} direction="column" alignItems="center">
         <Grid item xs={12}>
-          <Typography variant="h5" noWrap>
+          <Typography variant="h5">
             Today's Birthday
           </Typography>
         </Grid>
@@ -37,15 +37,15 @@ const TodaysBirthday = () => {
               component="img"
               alt="Animal Crossing Character"
               height="200"
-              image={info["villager-img-src"]}
+              image={info ? info["villager-img-src"] : ""}
               title="Animal Crossing Character"
             />
             <CardActions disableSpacing>
               <Typography variant="h5" component="h2">
-                {info.name}
+                {info ? info.name : ''}
               </Typography>
               <Button size="small">
-                <a className={classes.link} href={info["name-href"]}>
+                <a className={classes.link} href={info ? info["name-href"] : ''} without rel="noopener noreferrer" target="_blank">
                   Learn More
                 </a>
               </Button>
@@ -54,8 +54,8 @@ const TodaysBirthday = () => {
         </Grid>
 
         <Grid item xs={12}>
-          <Typography variant="h5" noWrap>
-            {info.birthday}
+          <Typography variant="h5">
+            {info ? info.birthday : ''}
           </Typography>
         </Grid>
       </Grid>

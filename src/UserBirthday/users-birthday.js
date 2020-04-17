@@ -7,6 +7,10 @@ import Button from "@material-ui/core/Button";
 import EcoIcon from "@material-ui/icons/Eco";
 import { makeStyles } from "@material-ui/core/styles";
 import { Link } from "react-router-dom";
+import moment from "moment";
+import PickerToolbar from "@material-ui/pickers/_shared/PickerToolbar";
+import ToolbarButton from "@material-ui/pickers/_shared/ToolbarButton";
+import './users-birthday.scss';
 
 const useStyles = makeStyles((theme) => ({
   container: {
@@ -15,14 +19,54 @@ const useStyles = makeStyles((theme) => ({
   item: {
     paddingLeft: theme.spacing(2),
   },
+  toolbar: {
+		display: "flex",
+		flexDirection: "column",
+		alignItems: "flex-start"
+	},
   button: {
     backgroundColor: "#7CC9C3",
     color: "#FFF",
+
+    '&:hover': {
+      backgroundColor: "#5aa59e"
+    }
   },
   link: {
     color: "#FFF",
   },
 }));
+
+const CustomToolbar = function (props) {
+  const { date, isLandscape, openView, setOpenView, title } = props;
+
+  const handleChangeViewClick = (view) => (e) => {
+    setOpenView(view);
+  };
+
+  const classes = useStyles();
+
+  return (
+    <PickerToolbar
+      className={classes.toolbar}
+      title={title}
+      isLandscape={isLandscape}
+    >
+      <ToolbarButton
+        onClick={handleChangeViewClick("month")}
+        variant="h4"
+        selected={openView === "date"}
+        label={date.format("MMMM")}
+      />
+    </PickerToolbar>
+  );
+};
+
+class LocalizedUtils extends MomentUtils {
+  getDatePickerHeaderText(date) {
+    return moment(date).format("MMM Do");
+  }
+}
 
 function UsersBirthday() {
   const [selectedDate, handleDateChange] = useState(new Date());
@@ -37,7 +81,7 @@ function UsersBirthday() {
         alignItems="center"
       >
         <Grid item>
-          Enter your birthday and find out with Animal Crossing character has
+          Enter your birthday and find out which Animal Crossing character has
           the same birthday as you!
         </Grid>
 
@@ -50,11 +94,14 @@ function UsersBirthday() {
           justify="center"
           className={classes.container}
         >
-          <MuiPickersUtilsProvider utils={MomentUtils}>
+          <MuiPickersUtilsProvider utils={LocalizedUtils}>
             <DatePicker
               label="Your Birthday"
               value={selectedDate}
               onChange={handleDateChange}
+              views={["month", "date"]}
+              openTo="month"
+              ToolbarComponent={CustomToolbar}
             />
           </MuiPickersUtilsProvider>
 
@@ -62,12 +109,15 @@ function UsersBirthday() {
             <Button
               variant="contained"
               className={classes.button}
+              onClick={() => handleDateChange}
               startIcon={<EcoIcon />}
             >
               <Link
                 className={classes.link}
-                state={selectedDate}
-                to="/CharacterBirthday"
+                to={{
+                  pathname: "/CharacterBirthday",
+                  selectedDate,
+                }}
               >
                 Let's Go!
               </Link>
