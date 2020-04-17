@@ -27,6 +27,10 @@ const useStyles = makeStyles((theme) => ({
   button: {
     backgroundColor: "#7CC9C3",
     color: "#FFF",
+
+    '&:hover': {
+      backgroundColor: "#5aa59e"
+    }
   },
   link: {
     color: "#FFF",
