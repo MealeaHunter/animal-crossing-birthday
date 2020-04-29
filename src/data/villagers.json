@@ -1,0 +1,3314 @@
+[
+    {
+        "name": "Lolly",
+        "name-href": "https://nookipedia.com/wiki/Lolly",
+        "villager-img-src": "https://nookipedia.com/w/images/thumb/0/05/Lolly_NLa.png/175px-Lolly_NLa.png",
+        "birthday": "March 27th"
+    },
+    {
+        "name": "Stu",
+        "name-href": "https://nookipedia.com/wiki/Stu",
+        "villager-img-src": "https://nookipedia.com/w/images/1/1c/Stu_NL.png",
+        "birthday": "April 20th"
+    },
+    {
+        "name": "Rocco",
+        "name-href": "https://nookipedia.com/wiki/Rocco",
+        "villager-img-src": "https://nookipedia.com/w/images/c/cb/Rocco_NLa.png",
+        "birthday": "August 18th"
+    },
+    {
+        "name": "Twiggy",
+        "name-href": "https://nookipedia.com/wiki/Twiggy",
+        "villager-img-src": "https://nookipedia.com/w/images/9/9a/Twiggy_NLa.png",
+        "birthday": "July 13th"
+    },
+    {
+        "name": "Huck",
+        "name-href": "https://nookipedia.com/wiki/Huck",
+        "villager-img-src": "https://nookipedia.com/w/images/e/e2/Huck_NL.png",
+        "birthday": "July 9th"
+    },
+    {
+        "name": "Gayle",
+        "name-href": "https://nookipedia.com/wiki/Gayle",
+        "villager-img-src": "https://nookipedia.com/w/images/1/12/Gayle_NL.png",
+        "birthday": "May 17th"
+    },
+    {
+        "name": "Norma",
+        "name-href": "https://nookipedia.com/wiki/Norma",
+        "villager-img-src": "https://nookipedia.com/w/images/0/00/Norma_NL.png",
+        "birthday": "September 20th"
+    },
+    {
+        "name": "Erik",
+        "name-href": "https://nookipedia.com/wiki/Erik",
+        "villager-img-src": "https://nookipedia.com/w/images/d/db/Erik_NL.png",
+        "birthday": "July 27th"
+    },
+    {
+        "name": "Betty",
+        "name-href": "https://nookipedia.com/wiki/Betty",
+        "villager-img-src": "https://nookipedia.com/w/images/c/ce/Betty_PG.png",
+        "birthday": null
+    },
+    {
+        "name": "Lulu",
+        "name-href": "https://nookipedia.com/wiki/Lulu_(islander)",
+        "villager-img-src": "https://nookipedia.com/w/images/d/d2/Lulu_DnMe%2B.png",
+        "birthday": null
+    },
+    {
+        "name": "Graham",
+        "name-href": "https://nookipedia.com/wiki/Graham",
+        "villager-img-src": "https://nookipedia.com/w/images/9/97/Graham_NL.png",
+        "birthday": "June 20th"
+    },
+    {
+        "name": "Boris",
+        "name-href": "https://nookipedia.com/wiki/Boris",
+        "villager-img-src": "https://nookipedia.com/w/images/a/a4/Boris_NL.png",
+        "birthday": "November 6th"
+    },
+    {
+        "name": "Merry",
+        "name-href": "https://nookipedia.com/wiki/Merry",
+        "villager-img-src": "https://nookipedia.com/w/images/3/34/Merry_NLa.png",
+        "birthday": "June 29th"
+    },
+    {
+        "name": "Jeremiah",
+        "name-href": "https://nookipedia.com/wiki/Jeremiah",
+        "villager-img-src": "https://nookipedia.com/w/images/1/11/Jeremiah_NLa.png",
+        "birthday": "July 8th"
+    },
+    {
+        "name": "Boots",
+        "name-href": "https://nookipedia.com/wiki/Boots",
+        "villager-img-src": "https://nookipedia.com/w/images/thumb/8/81/Boots_NL.png/200px-Boots_NL.png",
+        "birthday": "August 7th"
+    },
+    {
+        "name": "Mathilda",
+        "name-href": "https://nookipedia.com/wiki/Mathilda",
+        "villager-img-src": "https://nookipedia.com/w/images/c/cd/Mathilda_NLa.png",
+        "birthday": "November 12th"
+    },
+    {
+        "name": "Ursala",
+        "name-href": "https://nookipedia.com/wiki/Ursala",
+        "villager-img-src": "https://nookipedia.com/w/images/1/10/Ursala_NL.png",
+        "birthday": "January 16th"
+    },
+    {
+        "name": "Yuka",
+        "name-href": "https://nookipedia.com/wiki/Yuka",
+        "villager-img-src": "https://nookipedia.com/w/images/7/7b/Yuka_NLa.png",
+        "birthday": "July 20th"
+    },
+    {
+        "name": "Pekoe",
+        "name-href": "https://nookipedia.com/wiki/Pekoe",
+        "villager-img-src": "https://nookipedia.com/w/images/0/06/Pekoe_NLa.png",
+        "birthday": "May 18th"
+    },
+    {
+        "name": "Chevre",
+        "name-href": "https://nookipedia.com/wiki/Chevre",
+        "villager-img-src": "https://nookipedia.com/w/images/thumb/c/c9/Chevre_NH.png/175px-Chevre_NH.png",
+        "birthday": "March 6th"
+    },
+    {
+        "name": "Rollo",
+        "name-href": "https://nookipedia.com/wiki/Rollo",
+        "villager-img-src": "https://nookipedia.com/w/images/4/4f/Rollo_PG.png",
+        "birthday": null
+    },
+    {
+        "name": "Nosegay",
+        "name-href": "https://nookipedia.com/wiki/Nosegay",
+        "villager-img-src": "https://nookipedia.com/w/images/3/3f/Nosegay_PG.png",
+        "birthday": null
+    },
+    {
+        "name": "Flossie",
+        "name-href": "https://nookipedia.com/wiki/Flossie",
+        "villager-img-src": "https://nookipedia.com/w/images/5/52/Apple_PG_Icon.png",
+        "birthday": null
+    },
+    {
+        "name": "Hopkins",
+        "name-href": "https://nookipedia.com/wiki/Hopkins",
+        "villager-img-src": "https://nookipedia.com/w/images/thumb/8/8a/Hopkins_NL.png/200px-Hopkins_NL.png",
+        "birthday": "March 11th"
+    },
+    {
+        "name": "Bruce",
+        "name-href": "https://nookipedia.com/wiki/Bruce",
+        "villager-img-src": "https://nookipedia.com/w/images/a/a1/Bruce_NL.png",
+        "birthday": "May 26th"
+    },
+    {
+        "name": "Bud",
+        "name-href": "https://nookipedia.com/wiki/Bud",
+        "villager-img-src": "https://nookipedia.com/w/images/f/fa/Smallcheckmark.png",
+        "birthday": "August 8th"
+    },
+    {
+        "name": "Olivia",
+        "name-href": "https://nookipedia.com/wiki/Olivia",
+        "villager-img-src": "https://nookipedia.com/w/images/c/ce/Olivia_NLa.png",
+        "birthday": "February 3rd"
+    },
+    {
+        "name": "Barold",
+        "name-href": "https://nookipedia.com/wiki/Barold",
+        "villager-img-src": "https://nookipedia.com/w/images/6/60/Barold_NL.png",
+        "birthday": "March 2nd"
+    },
+    {
+        "name": "Avery",
+        "name-href": "https://nookipedia.com/wiki/Avery",
+        "villager-img-src": "https://nookipedia.com/w/images/6/6b/Avery_NLa.png",
+        "birthday": "February 22nd"
+    },
+    {
+        "name": "Raddle",
+        "name-href": "https://nookipedia.com/wiki/Raddle",
+        "villager-img-src": "https://nookipedia.com/w/images/1/1f/Raddle_NL.png",
+        "birthday": "June 6th"
+    },
+    {
+        "name": "O'Hare",
+        "name-href": "https://nookipedia.com/wiki/O%27Hare",
+        "villager-img-src": "https://nookipedia.com/w/images/a/a1/OHare_NH_2.png",
+        "birthday": "July 24th"
+    },
+    {
+        "name": "Robin",
+        "name-href": "https://nookipedia.com/wiki/Robin",
+        "villager-img-src": "https://nookipedia.com/w/images/9/94/Robin_NLa.png",
+        "birthday": "December 4th"
+    },
+    {
+        "name": "Victoria",
+        "name-href": "https://nookipedia.com/wiki/Victoria",
+        "villager-img-src": "https://nookipedia.com/w/images/d/dd/Victoria_NLa.png",
+        "birthday": "July 11th"
+    },
+    {
+        "name": "Ankha",
+        "name-href": "https://nookipedia.com/wiki/Ankha",
+        "villager-img-src": "https://nookipedia.com/w/images/6/6e/Cherry_PG_Icon.png",
+        "birthday": "September 22nd"
+    },
+    {
+        "name": "Angus",
+        "name-href": "https://nookipedia.com/wiki/Angus",
+        "villager-img-src": "https://nookipedia.com/w/images/e/ef/Angus_NLa.png",
+        "birthday": "April 30th"
+    },
+    {
+        "name": "Kidd",
+        "name-href": "https://nookipedia.com/wiki/Kidd",
+        "villager-img-src": "https://nookipedia.com/w/images/4/44/Kidd_NL.png",
+        "birthday": "June 28th"
+    },
+    {
+        "name": "Koharu",
+        "name-href": "https://nookipedia.com/wiki/Koharu",
+        "villager-img-src": "https://nookipedia.com/w/images/e/ef/Koharu_DnMe%2B.png",
+        "birthday": null
+    },
+    {
+        "name": "Hans",
+        "name-href": "https://nookipedia.com/wiki/Hans",
+        "villager-img-src": "https://nookipedia.com/w/images/thumb/9/9d/Hans_NL.png/200px-Hans_NL.png",
+        "birthday": "December 5th"
+    },
+    {
+        "name": "Cousteau",
+        "name-href": "https://nookipedia.com/wiki/Cousteau",
+        "villager-img-src": "https://nookipedia.com/w/images/7/7d/Cousteau_NLa.png",
+        "birthday": "December 17th"
+    },
+    {
+        "name": "Toby",
+        "name-href": "https://nookipedia.com/wiki/Toby",
+        "villager-img-src": "https://nookipedia.com/w/images/0/0d/Toby_NLa.png",
+        "birthday": "July 10th"
+    },
+    {
+        "name": "Claude",
+        "name-href": "https://nookipedia.com/wiki/Claude",
+        "villager-img-src": "https://nookipedia.com/w/images/8/82/Claude_NH_2.png",
+        "birthday": "December 3rd"
+    },
+    {
+        "name": "Vivian",
+        "name-href": "https://nookipedia.com/wiki/Vivian",
+        "villager-img-src": "https://nookipedia.com/w/images/5/54/Vivian_NH_2.png",
+        "birthday": "January 26"
+    },
+    {
+        "name": "Cashmere",
+        "name-href": "https://nookipedia.com/wiki/Cashmere",
+        "villager-img-src": "https://nookipedia.com/w/images/c/c7/Cashmere_NL.png",
+        "birthday": "April 2nd"
+    },
+    {
+        "name": "Drago",
+        "name-href": "https://nookipedia.com/wiki/Drago",
+        "villager-img-src": "https://nookipedia.com/w/images/thumb/1/15/Drago_NL.png/200px-Drago_NL.png",
+        "birthday": "February 12th"
+    },
+    {
+        "name": "Plucky",
+        "name-href": "https://nookipedia.com/wiki/Plucky",
+        "villager-img-src": "https://nookipedia.com/w/images/4/4e/Smallxmark.png",
+        "birthday": null
+    },
+    {
+        "name": "Pompom",
+        "name-href": "https://nookipedia.com/wiki/Pompom",
+        "villager-img-src": "https://nookipedia.com/w/images/6/6e/Pompom_NLa.png",
+        "birthday": "February 11th"
+    },
+    {
+        "name": "Tasha",
+        "name-href": "https://nookipedia.com/wiki/Tasha",
+        "villager-img-src": "https://nookipedia.com/w/images/thumb/8/8f/Tasha_NL.png/150px-Tasha_NL.png",
+        "birthday": "November 30th"
+    },
+    {
+        "name": "Zoe",
+        "name-href": "https://nookipedia.com/wiki/Zoe",
+        "villager-img-src": "https://nookipedia.com/w/images/thumb/7/78/Zoe_PG.png/200px-Zoe_PG.png",
+        "birthday": null
+    },
+    {
+        "name": "Harry",
+        "name-href": "https://nookipedia.com/wiki/Harry",
+        "villager-img-src": "https://nookipedia.com/w/images/8/81/Harry_NLa.png",
+        "birthday": "January 7th"
+    },
+    {
+        "name": "Kitty",
+        "name-href": "https://nookipedia.com/wiki/Kitty",
+        "villager-img-src": "https://nookipedia.com/w/images/9/9d/Kitty_NLa.png",
+        "birthday": "February 15th"
+    },
+    {
+        "name": "Charlise",
+        "name-href": "https://nookipedia.com/wiki/Charlise",
+        "villager-img-src": "https://nookipedia.com/w/images/d/d1/Charlise_NL.png",
+        "birthday": "April 17"
+    },
+    {
+        "name": "Mint",
+        "name-href": "https://nookipedia.com/wiki/Mint",
+        "villager-img-src": "https://nookipedia.com/w/images/c/cf/Mint_NLa.png",
+        "birthday": "May 2nd"
+    },
+    {
+        "name": "Tucker",
+        "name-href": "https://nookipedia.com/wiki/Tucker",
+        "villager-img-src": "https://nookipedia.com/w/images/d/dc/Tucker_NL.png",
+        "birthday": "September 7th"
+    },
+    {
+        "name": "Walt",
+        "name-href": "https://nookipedia.com/wiki/Walt",
+        "villager-img-src": "https://nookipedia.com/w/images/thumb/9/96/Walt_NL.png/200px-Walt_NL.png",
+        "birthday": "April 24th"
+    },
+    {
+        "name": "Medli",
+        "name-href": "https://nookipedia.com/wiki/Medli",
+        "villager-img-src": "https://nookipedia.com/w/images/4/46/Medli_NL.png",
+        "birthday": "December 13th"
+    },
+    {
+        "name": "Pango",
+        "name-href": "https://nookipedia.com/wiki/Pango",
+        "villager-img-src": "https://nookipedia.com/w/images/2/22/Pango_NLa.png",
+        "birthday": "November 9"
+    },
+    {
+        "name": "Pigleg",
+        "name-href": "https://nookipedia.com/wiki/Pigleg",
+        "villager-img-src": "https://nookipedia.com/w/images/f/f8/Pigleg_PG.png",
+        "birthday": null
+    },
+    {
+        "name": "Felyne",
+        "name-href": "https://nookipedia.com/wiki/Felyne",
+        "villager-img-src": "https://nookipedia.com/w/images/3/31/Felyne_HHD.png",
+        "birthday": null
+    },
+    {
+        "name": "Eloise",
+        "name-href": "https://nookipedia.com/wiki/Eloise",
+        "villager-img-src": "https://nookipedia.com/w/images/thumb/5/51/Eloise_NLa.png/175px-Eloise_NLa.png",
+        "birthday": "December 8th"
+    },
+    {
+        "name": "Tiffany",
+        "name-href": "https://nookipedia.com/wiki/Tiffany",
+        "villager-img-src": "https://nookipedia.com/w/images/8/8d/Tiffany_NLa.png",
+        "birthday": "January 9th"
+    },
+    {
+        "name": "Del",
+        "name-href": "https://nookipedia.com/wiki/Del",
+        "villager-img-src": "https://nookipedia.com/w/images/b/b7/Del_NLa.png",
+        "birthday": "May 27th"
+    },
+    {
+        "name": "Gen",
+        "name-href": "https://nookipedia.com/wiki/Gen",
+        "villager-img-src": "https://nookipedia.com/w/images/7/7f/Gen_DnMe%2B.png",
+        "birthday": null
+    },
+    {
+        "name": "Poncho",
+        "name-href": "https://nookipedia.com/wiki/Poncho",
+        "villager-img-src": "https://nookipedia.com/w/images/thumb/f/fa/Poncho_NLa.png/175px-Poncho_NLa.png",
+        "birthday": "January 2nd"
+    },
+    {
+        "name": "Carrie",
+        "name-href": "https://nookipedia.com/wiki/Carrie",
+        "villager-img-src": "https://nookipedia.com/w/images/thumb/b/b1/Carrie_NL.png/200px-Carrie_NL.png",
+        "birthday": null
+    },
+    {
+        "name": "Boone",
+        "name-href": "https://nookipedia.com/wiki/Boone",
+        "villager-img-src": "https://nookipedia.com/w/images/d/d5/Boone_NLa.png",
+        "birthday": "September 12th"
+    },
+    {
+        "name": "Rowan",
+        "name-href": "https://nookipedia.com/wiki/Rowan",
+        "villager-img-src": "https://nookipedia.com/w/images/d/df/Rowan_NH.png",
+        "birthday": "August 26th"
+    },
+    {
+        "name": "Caroline",
+        "name-href": "https://nookipedia.com/wiki/Caroline",
+        "villager-img-src": "https://nookipedia.com/w/images/f/fa/Smallcheckmark.png",
+        "birthday": "July 15th"
+    },
+    {
+        "name": "June",
+        "name-href": "https://nookipedia.com/wiki/June_(villager)",
+        "villager-img-src": "https://nookipedia.com/w/images/0/07/Peach_PG_Icon.png",
+        "birthday": "May 21st"
+    },
+    {
+        "name": "Sterling",
+        "name-href": "https://nookipedia.com/wiki/Sterling",
+        "villager-img-src": "https://nookipedia.com/w/images/7/71/Sterling_NLa.png",
+        "birthday": "December 11th"
+    },
+    {
+        "name": "Pudge",
+        "name-href": "https://nookipedia.com/wiki/Pudge",
+        "villager-img-src": "https://nookipedia.com/w/images/d/dc/Pudge_NLa.png",
+        "birthday": "June 11th"
+    },
+    {
+        "name": "Elina",
+        "name-href": "https://nookipedia.com/wiki/Elina",
+        "villager-img-src": "https://nookipedia.com/w/images/5/52/Apple_PG_Icon.png",
+        "birthday": null
+    },
+    {
+        "name": "Lopez",
+        "name-href": "https://nookipedia.com/wiki/Lopez",
+        "villager-img-src": "https://nookipedia.com/w/images/9/93/Lopez_NL.png",
+        "birthday": "August 20th"
+    },
+    {
+        "name": "Sherb",
+        "name-href": "https://nookipedia.com/wiki/Sherb",
+        "villager-img-src": "https://nookipedia.com/w/images/1/18/Sherb_NH.png",
+        "birthday": "January 18th"
+    },
+    {
+        "name": "Raymond",
+        "name-href": "https://nookipedia.com/wiki/Raymond",
+        "villager-img-src": "https://nookipedia.com/w/images/2/2a/Raymond_NH.png",
+        "birthday": null
+    },
+    {
+        "name": "Tex",
+        "name-href": "https://nookipedia.com/wiki/Tex",
+        "villager-img-src": "https://nookipedia.com/w/images/3/36/Tex_NL.png",
+        "birthday": "October 6th"
+    },
+    {
+        "name": "Dobie",
+        "name-href": "https://nookipedia.com/wiki/Dobie",
+        "villager-img-src": "https://nookipedia.com/w/images/6/6e/Cherry_PG_Icon.png",
+        "birthday": null
+    },
+    {
+        "name": "Kid Cat",
+        "name-href": "https://nookipedia.com/wiki/Kid_Cat",
+        "villager-img-src": "https://nookipedia.com/w/images/thumb/1/1b/Kid_Cat_NLa.png/175px-Kid_Cat_NLa.png",
+        "birthday": "August 1st"
+    },
+    {
+        "name": "Analog",
+        "name-href": "https://nookipedia.com/wiki/Analog",
+        "villager-img-src": "https://nookipedia.com/w/images/b/be/Analog_DnMe%2B.png",
+        "birthday": null
+    },
+    {
+        "name": "Ken",
+        "name-href": "https://nookipedia.com/wiki/Ken",
+        "villager-img-src": "https://nookipedia.com/w/images/thumb/7/78/Ken_NLa.png/175px-Ken_NLa.png",
+        "birthday": "December 23rd"
+    },
+    {
+        "name": "Klaus",
+        "name-href": "https://nookipedia.com/wiki/Klaus",
+        "villager-img-src": "https://nookipedia.com/w/images/2/22/Klaus_NLa.png",
+        "birthday": "March 31"
+    },
+    {
+        "name": "Ace",
+        "name-href": "https://nookipedia.com/wiki/Ace",
+        "villager-img-src": "https://nookipedia.com/w/images/4/4f/Ace_PG.png",
+        "birthday": null
+    },
+    {
+        "name": "Pancetti",
+        "name-href": "https://nookipedia.com/wiki/Pancetti",
+        "villager-img-src": "https://nookipedia.com/w/images/4/47/Pancetti_NL.png",
+        "birthday": "November 14th"
+    },
+    {
+        "name": "Joe",
+        "name-href": "https://nookipedia.com/wiki/Joe",
+        "villager-img-src": "https://nookipedia.com/w/images/2/2d/Joe_DnMe%2B.png",
+        "birthday": null
+    },
+    {
+        "name": "Pierre",
+        "name-href": "https://nookipedia.com/wiki/Pierre",
+        "villager-img-src": "https://nookipedia.com/w/images/5/53/Pierre_DnMe%2B.png",
+        "birthday": null
+    },
+    {
+        "name": "June",
+        "name-href": "https://nookipedia.com/wiki/June_(villager)",
+        "villager-img-src": "https://nookipedia.com/w/images/7/7a/Pear_PG_Icon.png",
+        "birthday": "May 21st"
+    },
+    {
+        "name": "June",
+        "name-href": "https://nookipedia.com/wiki/June_(villager)",
+        "villager-img-src": "https://nookipedia.com/w/images/4/4e/Smallxmark.png",
+        "birthday": "May 21st"
+    },
+    {
+        "name": "Kevin",
+        "name-href": "https://nookipedia.com/wiki/Kevin",
+        "villager-img-src": "https://nookipedia.com/w/images/thumb/0/0d/Kevin_NL.png/200px-Kevin_NL.png",
+        "birthday": "April 26th"
+    },
+    {
+        "name": "Poppy",
+        "name-href": "https://nookipedia.com/wiki/Poppy",
+        "villager-img-src": "https://nookipedia.com/w/images/b/b9/Poppy_NLa.png",
+        "birthday": "August 5th"
+    },
+    {
+        "name": "Olaf",
+        "name-href": "https://nookipedia.com/wiki/Olaf",
+        "villager-img-src": "https://nookipedia.com/w/images/b/bc/Olaf_NL.png",
+        "birthday": "May 19th"
+    },
+    {
+        "name": "Rhonda",
+        "name-href": "https://nookipedia.com/wiki/Rhonda",
+        "villager-img-src": "https://nookipedia.com/w/images/0/07/Rhonda_NLa.png",
+        "birthday": "January 24th"
+    },
+    {
+        "name": "Chester",
+        "name-href": "https://nookipedia.com/wiki/Chester",
+        "villager-img-src": "https://nookipedia.com/w/images/0/09/Chester_NLa.png",
+        "birthday": "August 6th"
+    },
+    {
+        "name": "Alfonso",
+        "name-href": "https://nookipedia.com/wiki/Alfonso",
+        "villager-img-src": "https://nookipedia.com/w/images/e/e4/Alfonso_NH.png",
+        "birthday": "June 9th"
+    },
+    {
+        "name": "Velma",
+        "name-href": "https://nookipedia.com/wiki/Velma",
+        "villager-img-src": "https://nookipedia.com/w/images/thumb/0/06/Velma_NLa.png/175px-Velma_NLa.png",
+        "birthday": "January 14th"
+    },
+    {
+        "name": "Croque",
+        "name-href": "https://nookipedia.com/wiki/Croque",
+        "villager-img-src": "https://nookipedia.com/w/images/thumb/a/a6/Croque_NL.png/150px-Croque_NL.png",
+        "birthday": "July 18th"
+    },
+    {
+        "name": "Beau",
+        "name-href": "https://nookipedia.com/wiki/Beau",
+        "villager-img-src": "https://nookipedia.com/w/images/0/09/Beau_NLa.png",
+        "birthday": "April 5th"
+    },
+    {
+        "name": "Inkwell",
+        "name-href": "https://nookipedia.com/wiki/Inkwell",
+        "villager-img-src": "https://nookipedia.com/w/images/c/cc/Inkwell_NL.png",
+        "birthday": "June 2nd"
+    },
+    {
+        "name": "Big Top",
+        "name-href": "https://nookipedia.com/wiki/Big_Top",
+        "villager-img-src": "https://nookipedia.com/w/images/2/2b/Big_Top_NLa.png",
+        "birthday": "October 3rd"
+    },
+    {
+        "name": "Sly",
+        "name-href": "https://nookipedia.com/wiki/Sly",
+        "villager-img-src": "https://nookipedia.com/w/images/thumb/9/9f/Sly_NL.png/175px-Sly_NL.png",
+        "birthday": "November 15th"
+    },
+    {
+        "name": "Poko",
+        "name-href": "https://nookipedia.com/wiki/Poko",
+        "villager-img-src": "https://nookipedia.com/w/images/7/7f/Poko_DnMe%2B.png",
+        "birthday": null
+    },
+    {
+        "name": "Lucy",
+        "name-href": "https://nookipedia.com/wiki/Lucy",
+        "villager-img-src": "https://nookipedia.com/w/images/f/f2/Lucy_NLa.png",
+        "birthday": "June 2nd"
+    },
+    {
+        "name": "Drift",
+        "name-href": "https://nookipedia.com/wiki/Drift",
+        "villager-img-src": "https://nookipedia.com/w/images/f/fa/Smallcheckmark.png",
+        "birthday": "October 9th"
+    },
+    {
+        "name": "Butch",
+        "name-href": "https://nookipedia.com/wiki/Butch",
+        "villager-img-src": "https://nookipedia.com/w/images/d/da/Butch_NLa.png",
+        "birthday": "November 1st"
+    },
+    {
+        "name": "Rhoda",
+        "name-href": "https://nookipedia.com/wiki/Rhoda",
+        "villager-img-src": "https://nookipedia.com/w/images/f/f8/Rhoda_PG.png",
+        "birthday": null
+    },
+    {
+        "name": "Hazel",
+        "name-href": "https://nookipedia.com/wiki/Hazel",
+        "villager-img-src": "https://nookipedia.com/w/images/8/8a/Hazel_NH_2.png",
+        "birthday": "August 30th"
+    },
+    {
+        "name": "Chai",
+        "name-href": "https://nookipedia.com/wiki/Chai",
+        "villager-img-src": "https://nookipedia.com/w/images/e/e9/Chai_NLa.png",
+        "birthday": "March 6th"
+    },
+    {
+        "name": "Rocket",
+        "name-href": "https://nookipedia.com/wiki/Rocket",
+        "villager-img-src": "https://nookipedia.com/w/images/5/5b/Rocket_NL.png",
+        "birthday": "April 14th"
+    },
+    {
+        "name": "Marcy",
+        "name-href": "https://nookipedia.com/wiki/Marcy",
+        "villager-img-src": "https://nookipedia.com/w/images/4/4d/Marcy_PG.png",
+        "birthday": null
+    },
+    {
+        "name": "Flo",
+        "name-href": "https://nookipedia.com/wiki/Flo",
+        "villager-img-src": "https://nookipedia.com/w/images/6/61/Flo_NL.png",
+        "birthday": "September 2nd"
+    },
+    {
+        "name": "Derwin",
+        "name-href": "https://nookipedia.com/wiki/Derwin",
+        "villager-img-src": "https://nookipedia.com/w/images/a/a1/Derwin_NLa.png",
+        "birthday": "May 25th"
+    },
+    {
+        "name": "Drake",
+        "name-href": "https://nookipedia.com/wiki/Drake",
+        "villager-img-src": "https://nookipedia.com/w/images/a/ab/Drake_NLa.png",
+        "birthday": "June 25th"
+    },
+    {
+        "name": "Kyle",
+        "name-href": "https://nookipedia.com/wiki/Kyle",
+        "villager-img-src": "https://nookipedia.com/w/images/thumb/3/3e/Kyle_NL.png/200px-Kyle_NL.png",
+        "birthday": "December 6th"
+    },
+    {
+        "name": "Elvis",
+        "name-href": "https://nookipedia.com/wiki/Elvis",
+        "villager-img-src": "https://nookipedia.com/w/images/5/51/Elvis_NLa.png",
+        "birthday": "July 23rd"
+    },
+    {
+        "name": "Plucky",
+        "name-href": "https://nookipedia.com/wiki/Plucky",
+        "villager-img-src": "https://nookipedia.com/w/images/f/fa/Smallcheckmark.png",
+        "birthday": null
+    },
+    {
+        "name": "Colton",
+        "name-href": "https://nookipedia.com/wiki/Colton",
+        "villager-img-src": "https://nookipedia.com/w/images/1/12/Colton_NL.png",
+        "birthday": "May 22nd"
+    },
+    {
+        "name": "Liz",
+        "name-href": "https://nookipedia.com/wiki/Liz",
+        "villager-img-src": "https://nookipedia.com/w/images/8/8e/Liz_PG.png",
+        "birthday": null
+    },
+    {
+        "name": "Quillson",
+        "name-href": "https://nookipedia.com/wiki/Quillson",
+        "villager-img-src": "https://nookipedia.com/w/images/thumb/3/38/Quillson_NL.png/175px-Quillson_NL.png",
+        "birthday": "December 22nd"
+    },
+    {
+        "name": "Goldie",
+        "name-href": "https://nookipedia.com/wiki/Goldie",
+        "villager-img-src": "https://nookipedia.com/w/images/8/83/Goldie_NH.png",
+        "birthday": "December 27th"
+    },
+    {
+        "name": "Faith",
+        "name-href": "https://nookipedia.com/wiki/Faith",
+        "villager-img-src": "https://nookipedia.com/w/images/4/43/Coconut_PG_Icon.png",
+        "birthday": null
+    },
+    {
+        "name": "Drift",
+        "name-href": "https://nookipedia.com/wiki/Drift",
+        "villager-img-src": "https://nookipedia.com/w/images/9/9f/Orange_PG_Icon.png",
+        "birthday": "October 9th"
+    },
+    {
+        "name": "Lucha",
+        "name-href": "https://nookipedia.com/wiki/Lucha",
+        "villager-img-src": "https://nookipedia.com/w/images/a/a6/Lucha_NLa.png",
+        "birthday": "December 12th"
+    },
+    {
+        "name": "Peewee",
+        "name-href": "https://nookipedia.com/wiki/Peewee",
+        "villager-img-src": "https://nookipedia.com/w/images/f/ff/Peewee_NLa.png",
+        "birthday": "September 11th"
+    },
+    {
+        "name": "Spike",
+        "name-href": "https://nookipedia.com/wiki/Spike",
+        "villager-img-src": "https://nookipedia.com/w/images/1/13/Spike_NL.png",
+        "birthday": "June 17th"
+    },
+    {
+        "name": "Queenie",
+        "name-href": "https://nookipedia.com/wiki/Queenie",
+        "villager-img-src": "https://nookipedia.com/w/images/2/27/Queenie_NLa.png",
+        "birthday": "November 13th"
+    },
+    {
+        "name": "Marshal",
+        "name-href": "https://nookipedia.com/wiki/Marshal",
+        "villager-img-src": "https://nookipedia.com/w/images/9/92/Marshal_NH_2.png",
+        "birthday": "September 29th"
+    },
+    {
+        "name": "Beardo",
+        "name-href": "https://nookipedia.com/wiki/Beardo",
+        "villager-img-src": "https://nookipedia.com/w/images/1/11/Beardo_NL.png",
+        "birthday": "September 27"
+    },
+    {
+        "name": "Cranston",
+        "name-href": "https://nookipedia.com/wiki/Cranston",
+        "villager-img-src": "https://nookipedia.com/w/images/f/fc/Cranston_NL.png",
+        "birthday": "September 23rd"
+    },
+    {
+        "name": "Annalise",
+        "name-href": "https://nookipedia.com/wiki/Annalise",
+        "villager-img-src": "https://nookipedia.com/w/images/thumb/5/53/Annalise_NLa.png/175px-Annalise_NLa.png",
+        "birthday": "December 2nd"
+    },
+    {
+        "name": "Fruity",
+        "name-href": "https://nookipedia.com/wiki/Fruity",
+        "villager-img-src": "https://nookipedia.com/w/images/b/b3/Fruity_DnMe%2B.png",
+        "birthday": null
+    },
+    {
+        "name": "Viché",
+        "name-href": "https://nookipedia.com/wiki/Vich%C3%A9",
+        "villager-img-src": "https://nookipedia.com/w/images/2/2f/Viche_NL.png",
+        "birthday": "July 7th"
+    },
+    {
+        "name": "Aziz",
+        "name-href": "https://nookipedia.com/wiki/Aziz",
+        "villager-img-src": "https://nookipedia.com/w/images/1/17/Aziz_PG.png",
+        "birthday": null
+    },
+    {
+        "name": "Henry",
+        "name-href": "https://nookipedia.com/wiki/Henry",
+        "villager-img-src": "https://nookipedia.com/w/images/3/34/Henry_NL.png",
+        "birthday": "September 21"
+    },
+    {
+        "name": "Cole",
+        "name-href": "https://nookipedia.com/wiki/Cole",
+        "villager-img-src": "https://nookipedia.com/w/images/f/f6/Cole_NH.png",
+        "birthday": "August 10th"
+    },
+    {
+        "name": "Maple",
+        "name-href": "https://nookipedia.com/wiki/Maple",
+        "villager-img-src": "https://nookipedia.com/w/images/4/4d/Maple_NLa.png",
+        "birthday": "June 15th"
+    },
+    {
+        "name": "Shoukichi",
+        "name-href": "https://nookipedia.com/wiki/Shoukichi",
+        "villager-img-src": "https://nookipedia.com/w/images/9/9b/Shoukichi_DnMe%2B.png",
+        "birthday": null
+    },
+    {
+        "name": "O'Hare",
+        "name-href": "https://nookipedia.com/wiki/O%27Hare",
+        "villager-img-src": "https://nookipedia.com/w/images/f/fa/Smallcheckmark.png",
+        "birthday": "July 24th"
+    },
+    {
+        "name": "Chops",
+        "name-href": "https://nookipedia.com/wiki/Chops",
+        "villager-img-src": "https://nookipedia.com/w/images/a/af/Chops_NL.png",
+        "birthday": "October 13th"
+    },
+    {
+        "name": "Stinky",
+        "name-href": "https://nookipedia.com/wiki/Stinky",
+        "villager-img-src": "https://nookipedia.com/w/images/b/b7/Stinky_NLa.png",
+        "birthday": "August 17th"
+    },
+    {
+        "name": "Puddles",
+        "name-href": "https://nookipedia.com/wiki/Puddles",
+        "villager-img-src": "https://nookipedia.com/w/images/thumb/a/a0/Puddles_NLa.png/150px-Puddles_NLa.png",
+        "birthday": "January 13th"
+    },
+    {
+        "name": "Vladimir",
+        "name-href": "https://nookipedia.com/wiki/Vladimir",
+        "villager-img-src": "https://nookipedia.com/w/images/8/84/Vladimir_NLa.png",
+        "birthday": "August 2nd"
+    },
+    {
+        "name": "Elina",
+        "name-href": "https://nookipedia.com/wiki/Elina",
+        "villager-img-src": "https://nookipedia.com/w/images/7/7a/Pear_PG_Icon.png",
+        "birthday": null
+    },
+    {
+        "name": "Lily",
+        "name-href": "https://nookipedia.com/wiki/Lily",
+        "villager-img-src": "https://nookipedia.com/w/images/4/43/Lily_NLa.png",
+        "birthday": "February 4th"
+    },
+    {
+        "name": "Louie",
+        "name-href": "https://nookipedia.com/wiki/Louie",
+        "villager-img-src": "https://nookipedia.com/w/images/thumb/2/23/Louie_NL.png/200px-Louie_NL.png",
+        "birthday": null
+    },
+    {
+        "name": "Verdun",
+        "name-href": "https://nookipedia.com/wiki/Verdun",
+        "villager-img-src": "https://nookipedia.com/w/images/1/11/Verdun_DnMe%2B.png",
+        "birthday": null
+    },
+    {
+        "name": "Rowan",
+        "name-href": "https://nookipedia.com/wiki/Rowan",
+        "villager-img-src": "https://nookipedia.com/w/images/4/4e/Smallxmark.png",
+        "birthday": "August 26th"
+    },
+    {
+        "name": "Flossie",
+        "name-href": "https://nookipedia.com/wiki/Flossie",
+        "villager-img-src": "https://nookipedia.com/w/images/9/9f/Orange_PG_Icon.png",
+        "birthday": null
+    },
+    {
+        "name": "Pierce",
+        "name-href": "https://nookipedia.com/wiki/Pierce",
+        "villager-img-src": "https://nookipedia.com/w/images/3/38/Pierce_NLa.png",
+        "birthday": "January 8th"
+    },
+    {
+        "name": "Frobert",
+        "name-href": "https://nookipedia.com/wiki/Frobert",
+        "villager-img-src": "https://nookipedia.com/w/images/4/4f/Frobert_NLa.png",
+        "birthday": "February 8th"
+    },
+    {
+        "name": "Opal",
+        "name-href": "https://nookipedia.com/wiki/Opal",
+        "villager-img-src": "https://nookipedia.com/w/images/5/5f/Opal_NLa.png",
+        "birthday": "January 20th"
+    },
+    {
+        "name": "Penny",
+        "name-href": "https://nookipedia.com/wiki/Penny",
+        "villager-img-src": "https://nookipedia.com/w/images/7/78/Penny_PG.png",
+        "birthday": null
+    },
+    {
+        "name": "Stella",
+        "name-href": "https://nookipedia.com/wiki/Stella",
+        "villager-img-src": "https://nookipedia.com/w/images/1/1e/Stella_NL.png",
+        "birthday": "April 9th"
+    },
+    {
+        "name": "Broccolo",
+        "name-href": "https://nookipedia.com/wiki/Broccolo",
+        "villager-img-src": "https://nookipedia.com/w/images/8/89/Broccolo_NLa.png",
+        "birthday": "June 30th"
+    },
+    {
+        "name": "Rodeo",
+        "name-href": "https://nookipedia.com/wiki/Rodeo",
+        "villager-img-src": "https://nookipedia.com/w/images/f/ff/Rodeo_NLa.png",
+        "birthday": "October 29th"
+    },
+    {
+        "name": "Hamlet",
+        "name-href": "https://nookipedia.com/wiki/Hamlet",
+        "villager-img-src": "https://nookipedia.com/w/images/thumb/1/12/Hamlet_NLa.png/175px-Hamlet_NLa.png",
+        "birthday": "May 30th"
+    },
+    {
+        "name": "Valise",
+        "name-href": "https://nookipedia.com/wiki/Valise",
+        "villager-img-src": "https://nookipedia.com/w/images/a/ad/Valise_PG.png",
+        "birthday": null
+    },
+    {
+        "name": "Tybalt",
+        "name-href": "https://nookipedia.com/wiki/Tybalt",
+        "villager-img-src": "https://nookipedia.com/w/images/6/64/Tybalt_NL.png",
+        "birthday": "August 19th"
+    },
+    {
+        "name": "Static",
+        "name-href": "https://nookipedia.com/wiki/Static",
+        "villager-img-src": "https://nookipedia.com/w/images/thumb/7/7b/Static_NLa.png/175px-Static_NLa.png",
+        "birthday": "July 9th"
+    },
+    {
+        "name": "Maelle",
+        "name-href": "https://nookipedia.com/wiki/Maelle",
+        "villager-img-src": "https://nookipedia.com/w/images/2/29/Maelle_NLa.png",
+        "birthday": "April 8th"
+    },
+    {
+        "name": "Antonio",
+        "name-href": "https://nookipedia.com/wiki/Antonio",
+        "villager-img-src": "https://nookipedia.com/w/images/2/25/Antonio_NLa.png",
+        "birthday": "October 20"
+    },
+    {
+        "name": "Yodel",
+        "name-href": "https://nookipedia.com/wiki/Yodel",
+        "villager-img-src": "https://nookipedia.com/w/images/6/6e/Cherry_PG_Icon.png",
+        "birthday": null
+    },
+    {
+        "name": "Bonbon",
+        "name-href": "https://nookipedia.com/wiki/Bonbon",
+        "villager-img-src": "https://nookipedia.com/w/images/1/1f/Bonbon_NL.png",
+        "birthday": "March 3rd"
+    },
+    {
+        "name": "Masa",
+        "name-href": "https://nookipedia.com/wiki/Masa",
+        "villager-img-src": "https://nookipedia.com/w/images/0/0a/Masa_DnMe%2B.png",
+        "birthday": null
+    },
+    {
+        "name": "Bertha",
+        "name-href": "https://nookipedia.com/wiki/Bertha",
+        "villager-img-src": "https://nookipedia.com/w/images/thumb/3/37/Bertha_NLa.png/200px-Bertha_NLa.png",
+        "birthday": "April 25"
+    },
+    {
+        "name": "Elina",
+        "name-href": "https://nookipedia.com/wiki/Elina",
+        "villager-img-src": "https://nookipedia.com/w/images/4/4e/Smallxmark.png",
+        "birthday": null
+    },
+    {
+        "name": "Mira",
+        "name-href": "https://nookipedia.com/wiki/Mira",
+        "villager-img-src": "https://nookipedia.com/w/images/0/0c/Mira_NL.png",
+        "birthday": "July 6"
+    },
+    {
+        "name": "Diana",
+        "name-href": "https://nookipedia.com/wiki/Diana",
+        "villager-img-src": "https://nookipedia.com/w/images/c/c2/Diana_NLa.png",
+        "birthday": "January 4th"
+    },
+    {
+        "name": "Oxford",
+        "name-href": "https://nookipedia.com/wiki/Oxford",
+        "villager-img-src": "https://nookipedia.com/w/images/thumb/1/10/Oxford_PG.png/200px-Oxford_PG.png",
+        "birthday": null
+    },
+    {
+        "name": "Bill",
+        "name-href": "https://nookipedia.com/wiki/Bill",
+        "villager-img-src": "https://nookipedia.com/w/images/5/51/Bill_NLa.png",
+        "birthday": "February 1st"
+    },
+    {
+        "name": "Flurry",
+        "name-href": "https://nookipedia.com/wiki/Flurry",
+        "villager-img-src": "https://nookipedia.com/w/images/8/8c/Flurry_NL.png",
+        "birthday": "January 30th"
+    },
+    {
+        "name": "Bangle",
+        "name-href": "https://nookipedia.com/wiki/Bangle",
+        "villager-img-src": "https://nookipedia.com/w/images/9/93/Bangle_NLa.png",
+        "birthday": "August 27th"
+    },
+    {
+        "name": "Drift",
+        "name-href": "https://nookipedia.com/wiki/Drift",
+        "villager-img-src": "https://nookipedia.com/w/images/4/4e/Smallxmark.png",
+        "birthday": "October 9th"
+    },
+    {
+        "name": "Piper",
+        "name-href": "https://nookipedia.com/wiki/Piper",
+        "villager-img-src": "https://nookipedia.com/w/images/8/8e/Piper_NL.png",
+        "birthday": "April 18th"
+    },
+    {
+        "name": "Sylvia",
+        "name-href": "https://nookipedia.com/wiki/Sylvia",
+        "villager-img-src": "https://nookipedia.com/w/images/a/ac/Sylvia_NL.png",
+        "birthday": "May 3rd"
+    },
+    {
+        "name": "Nindori",
+        "name-href": "https://nookipedia.com/wiki/Nindori",
+        "villager-img-src": "https://nookipedia.com/w/images/6/68/Nindori_DnMe%2B.png",
+        "birthday": null
+    },
+    {
+        "name": "Walker",
+        "name-href": "https://nookipedia.com/wiki/Walker",
+        "villager-img-src": "https://nookipedia.com/w/images/thumb/1/14/Walker_NLa.png/175px-Walker_NLa.png",
+        "birthday": "June 10th"
+    },
+    {
+        "name": "Ganon",
+        "name-href": "https://nookipedia.com/wiki/Ganon",
+        "villager-img-src": "https://nookipedia.com/w/images/2/22/Ganon_NL_Model.png",
+        "birthday": "February 21st"
+    },
+    {
+        "name": "Hippeux",
+        "name-href": "https://nookipedia.com/wiki/Hippeux",
+        "villager-img-src": "https://nookipedia.com/w/images/thumb/4/4b/Hippeux_NL.png/200px-Hippeux_NL.png",
+        "birthday": "October 15th"
+    },
+    {
+        "name": "Cally",
+        "name-href": "https://nookipedia.com/wiki/Cally",
+        "villager-img-src": "https://nookipedia.com/w/images/c/c4/Cally_NLa.png",
+        "birthday": "September 4th"
+    },
+    {
+        "name": "Pigleg",
+        "name-href": "https://nookipedia.com/wiki/Pigleg",
+        "villager-img-src": "https://nookipedia.com/w/images/f/fa/Smallcheckmark.png",
+        "birthday": null
+    },
+    {
+        "name": "Samson",
+        "name-href": "https://nookipedia.com/wiki/Samson",
+        "villager-img-src": "https://nookipedia.com/w/images/1/1e/Samson_NLa.png",
+        "birthday": "July 5th"
+    },
+    {
+        "name": "Admiral",
+        "name-href": "https://nookipedia.com/wiki/Admiral",
+        "villager-img-src": "https://nookipedia.com/w/images/0/02/Admiral_NL.png",
+        "birthday": "January 27th"
+    },
+    {
+        "name": "Baabara",
+        "name-href": "https://nookipedia.com/wiki/Baabara",
+        "villager-img-src": "https://nookipedia.com/w/images/2/2e/Baabara_NLa.png",
+        "birthday": "March 28th"
+    },
+    {
+        "name": "Jambette",
+        "name-href": "https://nookipedia.com/wiki/Jambette",
+        "villager-img-src": "https://nookipedia.com/w/images/f/fe/Jambette_NLa.png",
+        "birthday": "October 27th"
+    },
+    {
+        "name": "Bones",
+        "name-href": "https://nookipedia.com/wiki/Bones",
+        "villager-img-src": "https://nookipedia.com/w/images/6/62/Bones_NLa.png",
+        "birthday": "August 4th"
+    },
+    {
+        "name": "Flash",
+        "name-href": "https://nookipedia.com/wiki/Flash",
+        "villager-img-src": "https://nookipedia.com/w/images/f/fa/Smallcheckmark.png",
+        "birthday": null
+    },
+    {
+        "name": "Madam Rosa",
+        "name-href": "https://nookipedia.com/wiki/Madam_Rosa",
+        "villager-img-src": "https://nookipedia.com/w/images/b/b9/Madam_Rosa_DnMe%2B.png",
+        "birthday": null
+    },
+    {
+        "name": "Ozzie",
+        "name-href": "https://nookipedia.com/wiki/Ozzie",
+        "villager-img-src": "https://nookipedia.com/w/images/9/93/Ozzie_NLa.png",
+        "birthday": "May 7th"
+    },
+    {
+        "name": "Deena",
+        "name-href": "https://nookipedia.com/wiki/Deena",
+        "villager-img-src": "https://nookipedia.com/w/images/thumb/7/7b/Deena_NLa.png/175px-Deena_NLa.png",
+        "birthday": "June 27th"
+    },
+    {
+        "name": "Dizzy",
+        "name-href": "https://nookipedia.com/wiki/Dizzy",
+        "villager-img-src": "https://nookipedia.com/w/images/0/07/Dizzy_NLa.png",
+        "birthday": "July 14th"
+    },
+    {
+        "name": "Monty",
+        "name-href": "https://nookipedia.com/wiki/Monty",
+        "villager-img-src": "https://nookipedia.com/w/images/8/87/Monty_NLa.png",
+        "birthday": "December 7th"
+    },
+    {
+        "name": "Astrid",
+        "name-href": "https://nookipedia.com/wiki/Astrid",
+        "villager-img-src": "https://nookipedia.com/w/images/6/63/Astrid_NLa.png",
+        "birthday": "September 8th"
+    },
+    {
+        "name": "Annalise",
+        "name-href": "https://nookipedia.com/wiki/Annalise",
+        "villager-img-src": "https://nookipedia.com/w/images/7/7a/Pear_PG_Icon.png",
+        "birthday": "December 2nd"
+    },
+    {
+        "name": "Cleo",
+        "name-href": "https://nookipedia.com/wiki/Cleo",
+        "villager-img-src": "https://nookipedia.com/w/images/9/9d/Cleo_NL.png",
+        "birthday": "February 9th"
+    },
+    {
+        "name": "Tutu",
+        "name-href": "https://nookipedia.com/wiki/Tutu",
+        "villager-img-src": "https://nookipedia.com/w/images/0/01/Tutu_NLa.png",
+        "birthday": "September 15"
+    },
+    {
+        "name": "Filbert",
+        "name-href": "https://nookipedia.com/wiki/Filbert",
+        "villager-img-src": "https://nookipedia.com/w/images/3/34/Filbert_NH_2.png",
+        "birthday": "June 3rd"
+    },
+    {
+        "name": "T-Bone",
+        "name-href": "https://nookipedia.com/wiki/T-Bone",
+        "villager-img-src": "https://nookipedia.com/w/images/thumb/e/ec/T-Bone_NLa.png/175px-T-Bone_NLa.png",
+        "birthday": "May 20th"
+    },
+    {
+        "name": "Snooty",
+        "name-href": "https://nookipedia.com/wiki/Snooty_(villager)",
+        "villager-img-src": "https://nookipedia.com/w/images/b/b3/Snooty_NL.png",
+        "birthday": null
+    },
+    {
+        "name": "Anicotti",
+        "name-href": "https://nookipedia.com/wiki/Anicotti",
+        "villager-img-src": "https://nookipedia.com/w/images/b/bb/Anicotti_NLa.png",
+        "birthday": "February 24th"
+    },
+    {
+        "name": "Anabelle",
+        "name-href": "https://nookipedia.com/wiki/Anabelle",
+        "villager-img-src": "https://nookipedia.com/w/images/0/03/Anabelle_NLa.png",
+        "birthday": "February 16"
+    },
+    {
+        "name": "Clay",
+        "name-href": "https://nookipedia.com/wiki/Clay",
+        "villager-img-src": "https://nookipedia.com/w/images/thumb/7/77/Clay_NL.png/150px-Clay_NL.png",
+        "birthday": "October 19th"
+    },
+    {
+        "name": "Egbert",
+        "name-href": "https://nookipedia.com/wiki/Egbert",
+        "villager-img-src": "https://nookipedia.com/w/images/1/12/Egbert_NLa.png",
+        "birthday": "October 14th"
+    },
+    {
+        "name": "Flash",
+        "name-href": "https://nookipedia.com/wiki/Flash",
+        "villager-img-src": "https://nookipedia.com/w/images/4/4e/Smallxmark.png",
+        "birthday": null
+    },
+    {
+        "name": "Gloria",
+        "name-href": "https://nookipedia.com/wiki/Gloria",
+        "villager-img-src": "https://nookipedia.com/w/images/6/6a/Gloria_NLa.png",
+        "birthday": "August 12th"
+    },
+    {
+        "name": "Champ",
+        "name-href": "https://nookipedia.com/wiki/Champ",
+        "villager-img-src": "https://nookipedia.com/w/images/8/81/Champ_CF.png",
+        "birthday": "June 4th"
+    },
+    {
+        "name": "Meow",
+        "name-href": "https://nookipedia.com/wiki/Meow",
+        "villager-img-src": "https://nookipedia.com/w/images/5/54/Meow_DnMe%2B.png",
+        "birthday": null
+    },
+    {
+        "name": "Buck",
+        "name-href": "https://nookipedia.com/wiki/Buck",
+        "villager-img-src": "https://nookipedia.com/w/images/e/ec/Buck_NLa.png",
+        "birthday": "April 4th"
+    },
+    {
+        "name": "Dozer",
+        "name-href": "https://nookipedia.com/wiki/Dozer",
+        "villager-img-src": "https://nookipedia.com/w/images/thumb/3/3a/Dozer_PG.png/175px-Dozer_PG.png",
+        "birthday": null
+    },
+    {
+        "name": "Al",
+        "name-href": "https://nookipedia.com/wiki/Al",
+        "villager-img-src": "https://nookipedia.com/w/images/1/14/Al_NLa.png",
+        "birthday": "October 18th"
+    },
+    {
+        "name": "Chico",
+        "name-href": "https://nookipedia.com/wiki/Chico",
+        "villager-img-src": "https://nookipedia.com/w/images/2/2e/Chico_PG.png",
+        "birthday": null
+    },
+    {
+        "name": "Caroline",
+        "name-href": "https://nookipedia.com/wiki/Caroline",
+        "villager-img-src": "https://nookipedia.com/w/images/8/83/Caroline_NLa.png",
+        "birthday": "July 15th"
+    },
+    {
+        "name": "Leopold",
+        "name-href": "https://nookipedia.com/wiki/Leopold",
+        "villager-img-src": "https://nookipedia.com/w/images/e/ee/Leopold_NL.png",
+        "birthday": "August 14th"
+    },
+    {
+        "name": "Bessie",
+        "name-href": "https://nookipedia.com/wiki/Bessie",
+        "villager-img-src": "https://nookipedia.com/w/images/1/1f/Bessie_PG.png",
+        "birthday": null
+    },
+    {
+        "name": "Rory",
+        "name-href": "https://nookipedia.com/wiki/Rory",
+        "villager-img-src": "https://nookipedia.com/w/images/d/d7/Rory_NLa.png",
+        "birthday": "August 7st"
+    },
+    {
+        "name": "Rudy",
+        "name-href": "https://nookipedia.com/wiki/Rudy",
+        "villager-img-src": "https://nookipedia.com/w/images/thumb/a/a8/Rudy_NL.png/175px-Rudy_NL.png",
+        "birthday": "December 20th"
+    },
+    {
+        "name": "Drift",
+        "name-href": "https://nookipedia.com/wiki/Drift",
+        "villager-img-src": "https://nookipedia.com/w/images/5/52/Apple_PG_Icon.png",
+        "birthday": "October 9th"
+    },
+    {
+        "name": "Faith",
+        "name-href": "https://nookipedia.com/wiki/Faith",
+        "villager-img-src": "https://nookipedia.com/w/images/f/fa/Smallcheckmark.png",
+        "birthday": null
+    },
+    {
+        "name": "Boomer",
+        "name-href": "https://nookipedia.com/wiki/Boomer",
+        "villager-img-src": "https://nookipedia.com/w/images/f/fa/Smallcheckmark.png",
+        "birthday": "February 7th"
+    },
+    {
+        "name": "Gruff",
+        "name-href": "https://nookipedia.com/wiki/Gruff",
+        "villager-img-src": "https://nookipedia.com/w/images/b/bb/Gruff_NLa.png",
+        "birthday": "August 29th"
+    },
+    {
+        "name": "Cesar",
+        "name-href": "https://nookipedia.com/wiki/Cesar",
+        "villager-img-src": "https://nookipedia.com/w/images/2/23/Cesar_NH.png",
+        "birthday": "September 6th"
+    },
+    {
+        "name": "Camofrog",
+        "name-href": "https://nookipedia.com/wiki/Camofrog",
+        "villager-img-src": "https://nookipedia.com/w/images/d/d5/Camofrog_NLa.png",
+        "birthday": "June 5th"
+    },
+    {
+        "name": "Dotty",
+        "name-href": "https://nookipedia.com/wiki/Dotty",
+        "villager-img-src": "https://nookipedia.com/w/images/5/57/Dotty_NH_2.png",
+        "birthday": "March 14th"
+    },
+    {
+        "name": "Hornsby",
+        "name-href": "https://nookipedia.com/wiki/Hornsby",
+        "villager-img-src": "https://nookipedia.com/w/images/5/57/Hornsby_NL.png",
+        "birthday": "March 20th"
+    },
+    {
+        "name": "Simon",
+        "name-href": "https://nookipedia.com/wiki/Simon",
+        "villager-img-src": "https://nookipedia.com/w/images/b/b0/Simon_NLa.png",
+        "birthday": "January 19th"
+    },
+    {
+        "name": "Étoile",
+        "name-href": "https://nookipedia.com/wiki/%C3%89toile",
+        "villager-img-src": "https://nookipedia.com/w/images/7/7c/Etoile_NLa.png",
+        "birthday": "December 25th"
+    },
+    {
+        "name": "Hank",
+        "name-href": "https://nookipedia.com/wiki/Hank",
+        "villager-img-src": "https://nookipedia.com/w/images/9/9f/Hank_PG.png",
+        "birthday": null
+    },
+    {
+        "name": "Cookie",
+        "name-href": "https://nookipedia.com/wiki/Cookie",
+        "villager-img-src": "https://nookipedia.com/w/images/b/b6/Cookie_NLa.png",
+        "birthday": "June 18th"
+    },
+    {
+        "name": "Benjamin",
+        "name-href": "https://nookipedia.com/wiki/Benjamin",
+        "villager-img-src": "https://nookipedia.com/w/images/3/3a/Benjamin_NL.png",
+        "birthday": "August 3rd"
+    },
+    {
+        "name": "Marcel",
+        "name-href": "https://nookipedia.com/wiki/Marcel",
+        "villager-img-src": "https://nookipedia.com/w/images/e/e2/Marcel_NLa.png",
+        "birthday": "December 31st"
+    },
+    {
+        "name": "Miranda",
+        "name-href": "https://nookipedia.com/wiki/Miranda",
+        "villager-img-src": "https://nookipedia.com/w/images/9/9a/Miranda_NLa.png",
+        "birthday": "April 23rd"
+    },
+    {
+        "name": "Tammi",
+        "name-href": "https://nookipedia.com/wiki/Tammi",
+        "villager-img-src": "https://nookipedia.com/w/images/thumb/7/71/Tammi_NLa.png/175px-Tammi_NLa.png",
+        "birthday": "April"
+    },
+    {
+        "name": "Muffy",
+        "name-href": "https://nookipedia.com/wiki/Muffy",
+        "villager-img-src": "https://nookipedia.com/w/images/a/aa/Muffy_NL.png",
+        "birthday": "February 14th"
+    },
+    {
+        "name": "Dora",
+        "name-href": "https://nookipedia.com/wiki/Dora",
+        "villager-img-src": "https://nookipedia.com/w/images/2/21/Dora_NLa.png",
+        "birthday": "February 18th"
+    },
+    {
+        "name": "Purrl",
+        "name-href": "https://nookipedia.com/wiki/Purrl",
+        "villager-img-src": "https://nookipedia.com/w/images/a/ab/Purrl_NLa.png",
+        "birthday": "May 29th"
+    },
+    {
+        "name": "Huggy",
+        "name-href": "https://nookipedia.com/wiki/Huggy",
+        "villager-img-src": "https://nookipedia.com/w/images/2/2e/Huggy_PG.png",
+        "birthday": null
+    },
+    {
+        "name": "Plucky",
+        "name-href": "https://nookipedia.com/wiki/Plucky",
+        "villager-img-src": "https://nookipedia.com/w/images/5/52/Apple_PG_Icon.png",
+        "birthday": null
+    },
+    {
+        "name": "Mitzi",
+        "name-href": "https://nookipedia.com/wiki/Mitzi",
+        "villager-img-src": "https://nookipedia.com/w/images/0/0a/Mitzi_NLa.png",
+        "birthday": "September 25th"
+    },
+    {
+        "name": "Bianca",
+        "name-href": "https://nookipedia.com/wiki/Bianca",
+        "villager-img-src": "https://nookipedia.com/w/images/4/4a/Bianca_NH_2.png",
+        "birthday": "December 13th"
+    },
+    {
+        "name": "Annalisa",
+        "name-href": "https://nookipedia.com/wiki/Annalisa",
+        "villager-img-src": "https://nookipedia.com/w/images/thumb/9/9b/Annalisa_NL.png/200px-Annalisa_NL.png",
+        "birthday": "February 6"
+    },
+    {
+        "name": "Kabuki",
+        "name-href": "https://nookipedia.com/wiki/Kabuki",
+        "villager-img-src": "https://nookipedia.com/w/images/e/ec/Kabuki_NLa.png",
+        "birthday": "November 29th"
+    },
+    {
+        "name": "Mott",
+        "name-href": "https://nookipedia.com/wiki/Mott",
+        "villager-img-src": "https://nookipedia.com/w/images/b/bc/Mott_NLa.png",
+        "birthday": "July 10th"
+    },
+    {
+        "name": "Yodel",
+        "name-href": "https://nookipedia.com/wiki/Yodel",
+        "villager-img-src": "https://nookipedia.com/w/images/9/98/Yodel_PG.png",
+        "birthday": null
+    },
+    {
+        "name": "Caroline",
+        "name-href": "https://nookipedia.com/wiki/Caroline",
+        "villager-img-src": "https://nookipedia.com/w/images/9/9f/Orange_PG_Icon.png",
+        "birthday": "July 15th"
+    },
+    {
+        "name": "Shinabiru",
+        "name-href": "https://nookipedia.com/wiki/Shinabiru",
+        "villager-img-src": "https://nookipedia.com/w/images/a/a5/Shinabiru_DnMe%2B.png",
+        "birthday": null
+    },
+    {
+        "name": "Ricky",
+        "name-href": "https://nookipedia.com/wiki/Ricky",
+        "villager-img-src": "https://nookipedia.com/w/images/8/83/Ricky_NLa.png",
+        "birthday": "September 14th"
+    },
+    {
+        "name": "Deirdre",
+        "name-href": "https://nookipedia.com/wiki/Deirdre",
+        "villager-img-src": "https://nookipedia.com/w/images/c/c6/Deirdre_NL.png",
+        "birthday": "May 4th"
+    },
+    {
+        "name": "Pinky",
+        "name-href": "https://nookipedia.com/wiki/Pinky",
+        "villager-img-src": "https://nookipedia.com/w/images/5/57/Pinky_NLa.png",
+        "birthday": "September 9"
+    },
+    {
+        "name": "Phoebe",
+        "name-href": "https://nookipedia.com/wiki/Phoebe",
+        "villager-img-src": "https://nookipedia.com/w/images/2/20/Phoebe_NL.png",
+        "birthday": "April 22nd"
+    },
+    {
+        "name": "Mallary",
+        "name-href": "https://nookipedia.com/wiki/Mallary",
+        "villager-img-src": "https://nookipedia.com/w/images/d/dc/Mallary_NLa.png",
+        "birthday": "November 17th"
+    },
+    {
+        "name": "Naomi",
+        "name-href": "https://nookipedia.com/wiki/Naomi",
+        "villager-img-src": "https://nookipedia.com/w/images/f/f8/Naomi_NL.png",
+        "birthday": "February 28th"
+    },
+    {
+        "name": "Joey",
+        "name-href": "https://nookipedia.com/wiki/Joey",
+        "villager-img-src": "https://nookipedia.com/w/images/4/47/Joey_NLa.png",
+        "birthday": "January 3rd"
+    },
+    {
+        "name": "Tia",
+        "name-href": "https://nookipedia.com/wiki/Tia",
+        "villager-img-src": "https://nookipedia.com/w/images/6/67/Tia_NL.png",
+        "birthday": "November 18th"
+    },
+    {
+        "name": "June",
+        "name-href": "https://nookipedia.com/wiki/June_(villager)",
+        "villager-img-src": "https://nookipedia.com/w/images/f/fa/Smallcheckmark.png",
+        "birthday": "May 21st"
+    },
+    {
+        "name": "Jay",
+        "name-href": "https://nookipedia.com/wiki/Jay",
+        "villager-img-src": "https://nookipedia.com/w/images/9/90/Jay_NLa.png",
+        "birthday": "July 17th"
+    },
+    {
+        "name": "Fuchsia",
+        "name-href": "https://nookipedia.com/wiki/Fuchsia",
+        "villager-img-src": "https://nookipedia.com/w/images/2/2d/Fuchsia_NL.png",
+        "birthday": "September 19th"
+    },
+    {
+        "name": "Claudia",
+        "name-href": "https://nookipedia.com/wiki/Claudia",
+        "villager-img-src": "https://nookipedia.com/w/images/thumb/6/6f/Claudia_NL.png/200px-Claudia_NL.png",
+        "birthday": "November 22nd"
+    },
+    {
+        "name": "Woolio",
+        "name-href": "https://nookipedia.com/wiki/Woolio",
+        "villager-img-src": "https://nookipedia.com/w/images/7/73/Woolio_PG.png",
+        "birthday": null
+    },
+    {
+        "name": "Vesta",
+        "name-href": "https://nookipedia.com/wiki/Vesta",
+        "villager-img-src": "https://nookipedia.com/w/images/7/7c/Vesta_NH.png",
+        "birthday": "April 16th"
+    },
+    {
+        "name": "Chrissy",
+        "name-href": "https://nookipedia.com/wiki/Chrissy",
+        "villager-img-src": "https://nookipedia.com/w/images/thumb/9/99/Chrissy_NH_2.png/175px-Chrissy_NH_2.png",
+        "birthday": "August 28th"
+    },
+    {
+        "name": "Cyrano",
+        "name-href": "https://nookipedia.com/wiki/Cyrano",
+        "villager-img-src": "https://nookipedia.com/w/images/b/b0/Cyrano_NLa.png",
+        "birthday": "March 9"
+    },
+    {
+        "name": "Lyman",
+        "name-href": "https://nookipedia.com/wiki/Lyman",
+        "villager-img-src": "https://nookipedia.com/w/images/8/87/Lyman_NL.png",
+        "birthday": "October 12th"
+    },
+    {
+        "name": "Rilla",
+        "name-href": "https://nookipedia.com/wiki/Rilla",
+        "villager-img-src": "https://nookipedia.com/w/images/e/ee/Rilla_NL_Model.png",
+        "birthday": "November 1st"
+    },
+    {
+        "name": "Dobie",
+        "name-href": "https://nookipedia.com/wiki/Dobie",
+        "villager-img-src": "https://nookipedia.com/w/images/0/07/Peach_PG_Icon.png",
+        "birthday": null
+    },
+    {
+        "name": "Carmen",
+        "name-href": "https://nookipedia.com/wiki/Carmen_(mouse)",
+        "villager-img-src": "https://nookipedia.com/w/images/b/b2/Carmen_PG_%28mouse%29.png",
+        "birthday": null
+    },
+    {
+        "name": "Boomer",
+        "name-href": "https://nookipedia.com/wiki/Boomer",
+        "villager-img-src": "https://nookipedia.com/w/images/7/7a/Pear_PG_Icon.png",
+        "birthday": "February 7th"
+    },
+    {
+        "name": "Sue E.",
+        "name-href": "https://nookipedia.com/wiki/Sue_E.",
+        "villager-img-src": "https://nookipedia.com/w/images/5/57/Sue_E._PG.png",
+        "birthday": null
+    },
+    {
+        "name": "Sven",
+        "name-href": "https://nookipedia.com/wiki/Sven",
+        "villager-img-src": "https://nookipedia.com/w/images/6/66/Sven_PG.png",
+        "birthday": null
+    },
+    {
+        "name": "Gwen",
+        "name-href": "https://nookipedia.com/wiki/Gwen",
+        "villager-img-src": "https://nookipedia.com/w/images/0/0e/Gwen_NLa.png",
+        "birthday": "January 23rd"
+    },
+    {
+        "name": "Groucho",
+        "name-href": "https://nookipedia.com/wiki/Groucho",
+        "villager-img-src": "https://nookipedia.com/w/images/8/83/Groucho_NLa.png",
+        "birthday": "October 23rd"
+    },
+    {
+        "name": "Peggy",
+        "name-href": "https://nookipedia.com/wiki/Peggy",
+        "villager-img-src": "https://nookipedia.com/w/images/5/5f/Peggy_NLa.png",
+        "birthday": "May 23rd"
+    },
+    {
+        "name": "Agent S",
+        "name-href": "https://nookipedia.com/wiki/Agent_S",
+        "villager-img-src": "https://nookipedia.com/w/images/e/ef/Agent_S_NLa.png",
+        "birthday": "July 2nd"
+    },
+    {
+        "name": "Aurora",
+        "name-href": "https://nookipedia.com/wiki/Aurora",
+        "villager-img-src": "https://nookipedia.com/w/images/5/59/Aurora_NH.png",
+        "birthday": "January 27th"
+    },
+    {
+        "name": "Murphy",
+        "name-href": "https://nookipedia.com/wiki/Murphy",
+        "villager-img-src": "https://nookipedia.com/w/images/thumb/7/79/Murphy_NL.png/200px-Murphy_NL.png",
+        "birthday": null
+    },
+    {
+        "name": "Megumi",
+        "name-href": "https://nookipedia.com/wiki/Megumi",
+        "villager-img-src": "https://nookipedia.com/w/images/thumb/f/fd/Megumi_DnMe%2B2.png/100px-Megumi_DnMe%2B2.png",
+        "birthday": null
+    },
+    {
+        "name": "Leigh",
+        "name-href": "https://nookipedia.com/wiki/Leigh",
+        "villager-img-src": "https://nookipedia.com/w/images/1/11/Leigh_PG.png",
+        "birthday": null
+    },
+    {
+        "name": "Cheri",
+        "name-href": "https://nookipedia.com/wiki/Cheri",
+        "villager-img-src": "https://nookipedia.com/w/images/4/4b/Cheri_NLa.png",
+        "birthday": "March 17th"
+    },
+    {
+        "name": "Benedict",
+        "name-href": "https://nookipedia.com/wiki/Benedict",
+        "villager-img-src": "https://nookipedia.com/w/images/b/bd/Benedict_NLa.png",
+        "birthday": "October 10th"
+    },
+    {
+        "name": "Patricia",
+        "name-href": "https://nookipedia.com/wiki/Patricia",
+        "villager-img-src": "https://nookipedia.com/w/images/thumb/a/aa/Patricia_DnMe%2B.png/100px-Patricia_DnMe%2B.png",
+        "birthday": null
+    },
+    {
+        "name": "Flossie",
+        "name-href": "https://nookipedia.com/wiki/Flossie",
+        "villager-img-src": "https://nookipedia.com/w/images/1/1b/Flossie_PG.png",
+        "birthday": null
+    },
+    {
+        "name": "Curly",
+        "name-href": "https://nookipedia.com/wiki/Curly",
+        "villager-img-src": "https://nookipedia.com/w/images/f/f3/Curly_NLa.png",
+        "birthday": "July 26th"
+    },
+    {
+        "name": "Cube",
+        "name-href": "https://nookipedia.com/wiki/Cube",
+        "villager-img-src": "https://nookipedia.com/w/images/3/3b/Cube_NLa.png",
+        "birthday": "January 29th"
+    },
+    {
+        "name": "Kitt",
+        "name-href": "https://nookipedia.com/wiki/Kitt",
+        "villager-img-src": "https://nookipedia.com/w/images/b/b0/Kitt_NLa.png",
+        "birthday": "October 11th"
+    },
+    {
+        "name": "Hugh",
+        "name-href": "https://nookipedia.com/wiki/Hugh",
+        "villager-img-src": "https://nookipedia.com/w/images/9/9f/Hugh_NLa.png",
+        "birthday": "December 30th"
+    },
+    {
+        "name": "Flora",
+        "name-href": "https://nookipedia.com/wiki/Flora_(villager)",
+        "villager-img-src": "https://nookipedia.com/w/images/1/14/Flora_NL.png",
+        "birthday": "February 9th"
+    },
+    {
+        "name": "Teddy",
+        "name-href": "https://nookipedia.com/wiki/Teddy",
+        "villager-img-src": "https://nookipedia.com/w/images/6/6b/Teddy_NLa.png",
+        "birthday": "September 26"
+    },
+    {
+        "name": "Monique",
+        "name-href": "https://nookipedia.com/wiki/Monique",
+        "villager-img-src": "https://nookipedia.com/w/images/8/8c/Monique_NLa.png",
+        "birthday": "September 30th"
+    },
+    {
+        "name": "Nibbles",
+        "name-href": "https://nookipedia.com/wiki/Nibbles",
+        "villager-img-src": "https://nookipedia.com/w/images/thumb/d/db/Nibbles_NH_2.png/175px-Nibbles_NH_2.png",
+        "birthday": "July 19th"
+    },
+    {
+        "name": "Doc",
+        "name-href": "https://nookipedia.com/wiki/Doc",
+        "villager-img-src": "https://nookipedia.com/w/images/thumb/9/94/Doc_NLa.png/175px-Doc_NLa.png",
+        "birthday": "March 16th"
+    },
+    {
+        "name": "Carmen",
+        "name-href": "https://nookipedia.com/wiki/Carmen_(rabbit)",
+        "villager-img-src": "https://nookipedia.com/w/images/e/eb/Carmen_NH.png",
+        "birthday": "January 6th"
+    },
+    {
+        "name": "Lucky",
+        "name-href": "https://nookipedia.com/wiki/Lucky",
+        "villager-img-src": "https://nookipedia.com/w/images/2/25/Lucky_NLa.png",
+        "birthday": "November 4th"
+    },
+    {
+        "name": "Hamphrey",
+        "name-href": "https://nookipedia.com/wiki/Hamphrey",
+        "villager-img-src": "https://nookipedia.com/w/images/thumb/1/1a/Hamphrey_NL.png/150px-Hamphrey_NL.png",
+        "birthday": "February 25th"
+    },
+    {
+        "name": "Apollo",
+        "name-href": "https://nookipedia.com/wiki/Apollo",
+        "villager-img-src": "https://nookipedia.com/w/images/thumb/2/28/Apollo_NH.png/175px-Apollo_NH.png",
+        "birthday": "July 4th"
+    },
+    {
+        "name": "Flossie",
+        "name-href": "https://nookipedia.com/wiki/Flossie",
+        "villager-img-src": "https://nookipedia.com/w/images/f/fa/Smallcheckmark.png",
+        "birthday": null
+    },
+    {
+        "name": "Diva",
+        "name-href": "https://nookipedia.com/wiki/Diva",
+        "villager-img-src": "https://nookipedia.com/w/images/3/36/Diva_NL.png",
+        "birthday": "October 2nd"
+    },
+    {
+        "name": "Yodel",
+        "name-href": "https://nookipedia.com/wiki/Yodel",
+        "villager-img-src": "https://nookipedia.com/w/images/f/fa/Smallcheckmark.png",
+        "birthday": null
+    },
+    {
+        "name": "Vic",
+        "name-href": "https://nookipedia.com/wiki/Vic",
+        "villager-img-src": "https://nookipedia.com/w/images/b/b1/Vic_NL.png",
+        "birthday": "December 29th"
+    },
+    {
+        "name": "Roscoe",
+        "name-href": "https://nookipedia.com/wiki/Roscoe",
+        "villager-img-src": "https://nookipedia.com/w/images/1/10/Roscoe_NLa.png",
+        "birthday": "June 16th"
+    },
+    {
+        "name": "Ribbot",
+        "name-href": "https://nookipedia.com/wiki/Ribbot",
+        "villager-img-src": "https://nookipedia.com/w/images/1/15/Ribbot_NLa.png",
+        "birthday": "February 13th"
+    },
+    {
+        "name": "Bud",
+        "name-href": "https://nookipedia.com/wiki/Bud",
+        "villager-img-src": "https://nookipedia.com/w/images/7/7a/Pear_PG_Icon.png",
+        "birthday": "August 8th"
+    },
+    {
+        "name": "Carrot",
+        "name-href": "https://nookipedia.com/wiki/Carrot",
+        "villager-img-src": "https://nookipedia.com/w/images/e/e2/Carrot_DnMe%2B.png",
+        "birthday": null
+    },
+    {
+        "name": "Sprocket",
+        "name-href": "https://nookipedia.com/wiki/Sprocket",
+        "villager-img-src": "https://nookipedia.com/w/images/7/7a/Sprocket_NL.png",
+        "birthday": null
+    },
+    {
+        "name": "Lobo",
+        "name-href": "https://nookipedia.com/wiki/Lobo",
+        "villager-img-src": "https://nookipedia.com/w/images/1/14/Lobo_NLa.png",
+        "birthday": "November 5th"
+    },
+    {
+        "name": "Peanut",
+        "name-href": "https://nookipedia.com/wiki/Peanut",
+        "villager-img-src": "https://nookipedia.com/w/images/thumb/d/d5/Peanut_NH.png/175px-Peanut_NH.png",
+        "birthday": "June 8th"
+    },
+    {
+        "name": "Rowan",
+        "name-href": "https://nookipedia.com/wiki/Rowan",
+        "villager-img-src": "https://nookipedia.com/w/images/f/fa/Smallcheckmark.png",
+        "birthday": "August 26th"
+    },
+    {
+        "name": "Bow",
+        "name-href": "https://nookipedia.com/wiki/Bow",
+        "villager-img-src": "https://nookipedia.com/w/images/a/ae/Bow_DnMe%2B.png",
+        "birthday": null
+    },
+    {
+        "name": "Pigleg",
+        "name-href": "https://nookipedia.com/wiki/Pigleg",
+        "villager-img-src": "https://nookipedia.com/w/images/0/07/Peach_PG_Icon.png",
+        "birthday": null
+    },
+    {
+        "name": "Nate",
+        "name-href": "https://nookipedia.com/wiki/Nate",
+        "villager-img-src": "https://nookipedia.com/w/images/thumb/d/d0/Nate_NLa.png/175px-Nate_NLa.png",
+        "birthday": "August 16"
+    },
+    {
+        "name": "Frita",
+        "name-href": "https://nookipedia.com/wiki/Frita",
+        "villager-img-src": "https://nookipedia.com/w/images/thumb/4/4c/Frita_NL.png/200px-Frita_NL.png",
+        "birthday": "July 16th"
+    },
+    {
+        "name": "Genji",
+        "name-href": "https://nookipedia.com/wiki/Genji",
+        "villager-img-src": "https://nookipedia.com/w/images/9/96/Genji_NLa.png",
+        "birthday": "January 21st"
+    },
+    {
+        "name": "Gabi",
+        "name-href": "https://nookipedia.com/wiki/Gabi",
+        "villager-img-src": "https://nookipedia.com/w/images/1/14/Gabi_NLa.png",
+        "birthday": "December 16th"
+    },
+    {
+        "name": "Wendy",
+        "name-href": "https://nookipedia.com/wiki/Wendy",
+        "villager-img-src": "https://nookipedia.com/w/images/thumb/6/65/Wendy_NLa.png/175px-Wendy_NLa.png",
+        "birthday": "August 15th"
+    },
+    {
+        "name": "Twirp",
+        "name-href": "https://nookipedia.com/wiki/Twirp",
+        "villager-img-src": "https://nookipedia.com/w/images/a/a0/Twirp_PG.png",
+        "birthday": null
+    },
+    {
+        "name": "Friga",
+        "name-href": "https://nookipedia.com/wiki/Friga",
+        "villager-img-src": "https://nookipedia.com/w/images/thumb/d/d6/Friga_NLa.png/200px-Friga_NLa.png",
+        "birthday": "October 16th"
+    },
+    {
+        "name": "Annalise",
+        "name-href": "https://nookipedia.com/wiki/Annalise",
+        "villager-img-src": "https://nookipedia.com/w/images/f/fa/Smallcheckmark.png",
+        "birthday": "December 2nd"
+    },
+    {
+        "name": "Stitches",
+        "name-href": "https://nookipedia.com/wiki/Stitches",
+        "villager-img-src": "https://nookipedia.com/w/images/5/56/Stitches_NH.png",
+        "birthday": "February 10th"
+    },
+    {
+        "name": "Pigleg",
+        "name-href": "https://nookipedia.com/wiki/Pigleg",
+        "villager-img-src": "https://nookipedia.com/w/images/9/9f/Orange_PG_Icon.png",
+        "birthday": null
+    },
+    {
+        "name": "Axel",
+        "name-href": "https://nookipedia.com/wiki/Axel",
+        "villager-img-src": "https://nookipedia.com/w/images/e/e1/Axel_NLa.png",
+        "birthday": "March 23rd"
+    },
+    {
+        "name": "Timbra",
+        "name-href": "https://nookipedia.com/wiki/Timbra",
+        "villager-img-src": "https://nookipedia.com/w/images/3/34/Timbra_NL.png",
+        "birthday": "October 21st"
+    },
+    {
+        "name": "Goose",
+        "name-href": "https://nookipedia.com/wiki/Goose",
+        "villager-img-src": "https://nookipedia.com/w/images/9/91/Goose_NH.png",
+        "birthday": "October 4th"
+    },
+    {
+        "name": "Patty",
+        "name-href": "https://nookipedia.com/wiki/Patty",
+        "villager-img-src": "https://nookipedia.com/w/images/thumb/f/fc/Patty_NLa.png/200px-Patty_NLa.png",
+        "birthday": "May 10th"
+    },
+    {
+        "name": "Elise",
+        "name-href": "https://nookipedia.com/wiki/Elise",
+        "villager-img-src": "https://nookipedia.com/w/images/f/fe/Elise_NLa.png",
+        "birthday": "March 21st"
+    },
+    {
+        "name": "Knox",
+        "name-href": "https://nookipedia.com/wiki/Knox",
+        "villager-img-src": "https://nookipedia.com/w/images/e/e3/Knox_NLa.png",
+        "birthday": "November 23rd"
+    },
+    {
+        "name": "Caroline",
+        "name-href": "https://nookipedia.com/wiki/Caroline",
+        "villager-img-src": "https://nookipedia.com/w/images/4/4e/Smallxmark.png",
+        "birthday": "July 15th"
+    },
+    {
+        "name": "Tammy",
+        "name-href": "https://nookipedia.com/wiki/Tammy",
+        "villager-img-src": "https://nookipedia.com/w/images/a/ae/Tammy_NL.png",
+        "birthday": "June 23rd"
+    },
+    {
+        "name": "Ketchup",
+        "name-href": "https://nookipedia.com/wiki/Ketchup",
+        "villager-img-src": "https://nookipedia.com/w/images/6/6b/Ketchup_NL.png",
+        "birthday": "July 27th"
+    },
+    {
+        "name": "Wolfgang",
+        "name-href": "https://nookipedia.com/wiki/Wolfgang",
+        "villager-img-src": "https://nookipedia.com/w/images/thumb/f/fc/Wolfgang_NH_2.png/200px-Wolfgang_NH_2.png",
+        "birthday": "November 25th"
+    },
+    {
+        "name": "Roald",
+        "name-href": "https://nookipedia.com/wiki/Roald",
+        "villager-img-src": "https://nookipedia.com/w/images/4/4b/Roald_NH_2.png",
+        "birthday": "January 5th"
+    },
+    {
+        "name": "Alli",
+        "name-href": "https://nookipedia.com/wiki/Alli",
+        "villager-img-src": "https://nookipedia.com/w/images/3/34/Alli_NLa.png",
+        "birthday": "November 8th"
+    },
+    {
+        "name": "Eugene",
+        "name-href": "https://nookipedia.com/wiki/Eugene",
+        "villager-img-src": "https://nookipedia.com/w/images/d/d8/Eugene_NL.png",
+        "birthday": "October 26th"
+    },
+    {
+        "name": "Sprinkle",
+        "name-href": "https://nookipedia.com/wiki/Sprinkle",
+        "villager-img-src": "https://nookipedia.com/w/images/3/3d/Sprinkle_NL.png",
+        "birthday": "February 20th"
+    },
+    {
+        "name": "Maddie",
+        "name-href": "https://nookipedia.com/wiki/Maddie",
+        "villager-img-src": "https://nookipedia.com/w/images/9/95/Maddie_NL.png",
+        "birthday": "January 11th"
+    },
+    {
+        "name": "Ruby",
+        "name-href": "https://nookipedia.com/wiki/Ruby",
+        "villager-img-src": "https://nookipedia.com/w/images/9/9f/Ruby_NLa.png",
+        "birthday": "December 25th"
+    },
+    {
+        "name": "Dobie",
+        "name-href": "https://nookipedia.com/wiki/Dobie",
+        "villager-img-src": "https://nookipedia.com/w/images/4/4e/Smallxmark.png",
+        "birthday": null
+    },
+    {
+        "name": "Scoot",
+        "name-href": "https://nookipedia.com/wiki/Scoot",
+        "villager-img-src": "https://nookipedia.com/w/images/thumb/d/d9/Scoot_NLa.png/175px-Scoot_NLa.png",
+        "birthday": "June 13th"
+    },
+    {
+        "name": "Elina",
+        "name-href": "https://nookipedia.com/wiki/Elina",
+        "villager-img-src": "https://nookipedia.com/w/images/f/fa/Smallcheckmark.png",
+        "birthday": null
+    },
+    {
+        "name": "Midge",
+        "name-href": "https://nookipedia.com/wiki/Midge",
+        "villager-img-src": "https://nookipedia.com/w/images/a/a5/Midge_NLa.png",
+        "birthday": "March 12th"
+    },
+    {
+        "name": "Sally",
+        "name-href": "https://nookipedia.com/wiki/Sally",
+        "villager-img-src": "https://nookipedia.com/w/images/5/54/Sally_NLa.png",
+        "birthday": "June 19th"
+    },
+    {
+        "name": "Flash",
+        "name-href": "https://nookipedia.com/wiki/Flash",
+        "villager-img-src": "https://nookipedia.com/w/images/0/07/Peach_PG_Icon.png",
+        "birthday": null
+    },
+    {
+        "name": "Bam",
+        "name-href": "https://nookipedia.com/wiki/Bam",
+        "villager-img-src": "https://nookipedia.com/w/images/thumb/9/96/Bam_NL.png/200px-Bam_NL.png",
+        "birthday": "November 7th"
+    },
+    {
+        "name": "Pironkon",
+        "name-href": "https://nookipedia.com/wiki/Pironkon",
+        "villager-img-src": "https://nookipedia.com/w/images/d/d8/Pironkon_DnMe%2B.png",
+        "birthday": null
+    },
+    {
+        "name": "Olive",
+        "name-href": "https://nookipedia.com/wiki/Olive",
+        "villager-img-src": "https://nookipedia.com/w/images/3/3d/Olive_NL.png",
+        "birthday": null
+    },
+    {
+        "name": "Maggie",
+        "name-href": "https://nookipedia.com/wiki/Maggie",
+        "villager-img-src": "https://nookipedia.com/w/images/0/05/Maggie_NL.png",
+        "birthday": null
+    },
+    {
+        "name": "Bud",
+        "name-href": "https://nookipedia.com/wiki/Bud",
+        "villager-img-src": "https://nookipedia.com/w/images/0/07/Peach_PG_Icon.png",
+        "birthday": "August 8th"
+    },
+    {
+        "name": "Paolo",
+        "name-href": "https://nookipedia.com/wiki/Paolo",
+        "villager-img-src": "https://nookipedia.com/w/images/2/2e/Paolo_NL.png",
+        "birthday": "May 5th"
+    },
+    {
+        "name": "Drift",
+        "name-href": "https://nookipedia.com/wiki/Drift",
+        "villager-img-src": "https://nookipedia.com/w/images/thumb/f/fd/Drift_NLa.png/150px-Drift_NLa.png",
+        "birthday": "October 9th"
+    },
+    {
+        "name": "Bettina",
+        "name-href": "https://nookipedia.com/wiki/Bettina",
+        "villager-img-src": "https://nookipedia.com/w/images/8/84/Bettina_NLa.png",
+        "birthday": "June 12th"
+    },
+    {
+        "name": "Weber",
+        "name-href": "https://nookipedia.com/wiki/Weber",
+        "villager-img-src": "https://nookipedia.com/w/images/6/62/Weber_NL.png",
+        "birthday": "June 30th"
+    },
+    {
+        "name": "Sheldon",
+        "name-href": "https://nookipedia.com/wiki/Sheldon",
+        "villager-img-src": "https://nookipedia.com/w/images/thumb/4/4e/Sheldon_NL.png/175px-Sheldon_NL.png",
+        "birthday": "February 26th"
+    },
+    {
+        "name": "Coach",
+        "name-href": "https://nookipedia.com/wiki/Coach",
+        "villager-img-src": "https://nookipedia.com/w/images/0/03/Coach_NL.png",
+        "birthday": "April 29th"
+    },
+    {
+        "name": "Cece",
+        "name-href": "https://nookipedia.com/wiki/Cece",
+        "villager-img-src": "https://nookipedia.com/w/images/1/1e/Cece_NL.png",
+        "birthday": "May 28th"
+    },
+    {
+        "name": "Rolf",
+        "name-href": "https://nookipedia.com/wiki/Rolf",
+        "villager-img-src": "https://nookipedia.com/w/images/f/f3/Rolf_NLa.png",
+        "birthday": "August 22nd"
+    },
+    {
+        "name": "Celia",
+        "name-href": "https://nookipedia.com/wiki/Celia",
+        "villager-img-src": "https://nookipedia.com/w/images/a/a3/Celia_NL.png",
+        "birthday": "March 25th"
+    },
+    {
+        "name": "Billy",
+        "name-href": "https://nookipedia.com/wiki/Billy",
+        "villager-img-src": "https://nookipedia.com/w/images/c/c8/Billy_NL.png",
+        "birthday": "March 25th"
+    },
+    {
+        "name": "Candi",
+        "name-href": "https://nookipedia.com/wiki/Candi",
+        "villager-img-src": "https://nookipedia.com/w/images/5/5c/Candi_NL.png",
+        "birthday": "April 13th"
+    },
+    {
+        "name": "Margie",
+        "name-href": "https://nookipedia.com/wiki/Margie",
+        "villager-img-src": "https://nookipedia.com/w/images/5/54/Margie_NH.png",
+        "birthday": "January 28th"
+    },
+    {
+        "name": "Biskit",
+        "name-href": "https://nookipedia.com/wiki/Biskit",
+        "villager-img-src": "https://nookipedia.com/w/images/thumb/d/de/Biskit_NLa.png/175px-Biskit_NLa.png",
+        "birthday": "May 13th"
+    },
+    {
+        "name": "Keaton",
+        "name-href": "https://nookipedia.com/wiki/Keaton",
+        "villager-img-src": "https://nookipedia.com/w/images/d/d9/Keaton_NH_2.png",
+        "birthday": "June 1st"
+    },
+    {
+        "name": "Blanche",
+        "name-href": "https://nookipedia.com/wiki/Blanche",
+        "villager-img-src": "https://nookipedia.com/w/images/thumb/4/47/Blanche_NL.png/200px-Blanche_NL.png",
+        "birthday": "December 21st"
+    },
+    {
+        "name": "Amelia",
+        "name-href": "https://nookipedia.com/wiki/Amelia",
+        "villager-img-src": "https://nookipedia.com/w/images/9/9b/Amelia_NH_2.png",
+        "birthday": "November 19th"
+    },
+    {
+        "name": "Rex",
+        "name-href": "https://nookipedia.com/wiki/Rex",
+        "villager-img-src": "https://nookipedia.com/w/images/7/74/Rex_NL.png",
+        "birthday": "July 24th"
+    },
+    {
+        "name": "Broffina",
+        "name-href": "https://nookipedia.com/wiki/Broffina",
+        "villager-img-src": "https://nookipedia.com/w/images/c/c0/Broffina_NL.png",
+        "birthday": "October 24th"
+    },
+    {
+        "name": "Greta",
+        "name-href": "https://nookipedia.com/wiki/Greta",
+        "villager-img-src": "https://nookipedia.com/w/images/5/58/Greta_NL.png",
+        "birthday": "September 5th"
+    },
+    {
+        "name": "Coco",
+        "name-href": "https://nookipedia.com/wiki/Coco",
+        "villager-img-src": "https://nookipedia.com/w/images/thumb/9/97/Coco_NLa.png/175px-Coco_NLa.png",
+        "birthday": "March 1st"
+    },
+    {
+        "name": "Reneigh",
+        "name-href": "https://nookipedia.com/wiki/Reneigh",
+        "villager-img-src": "https://nookipedia.com/w/images/9/92/Reneigh_NH.png",
+        "birthday": null
+    },
+    {
+        "name": "Penelope",
+        "name-href": "https://nookipedia.com/wiki/Penelope",
+        "villager-img-src": "https://nookipedia.com/w/images/3/32/Penelope_NL.png",
+        "birthday": "February 5th"
+    },
+    {
+        "name": "Paula",
+        "name-href": "https://nookipedia.com/wiki/Paula",
+        "villager-img-src": "https://nookipedia.com/w/images/4/4b/Paula_NLa.png",
+        "birthday": "March 22"
+    },
+    {
+        "name": "Rizzo",
+        "name-href": "https://nookipedia.com/wiki/Rizzo",
+        "villager-img-src": "https://nookipedia.com/w/images/8/83/Rizzo_NLa.png",
+        "birthday": "January 17th"
+    },
+    {
+        "name": "Kit",
+        "name-href": "https://nookipedia.com/wiki/Kit",
+        "villager-img-src": "https://nookipedia.com/w/images/thumb/c/cd/Kit_DnMe%2B.png/100px-Kit_DnMe%2B.png",
+        "birthday": null
+    },
+    {
+        "name": "Rowan",
+        "name-href": "https://nookipedia.com/wiki/Rowan",
+        "villager-img-src": "https://nookipedia.com/w/images/7/7a/Pear_PG_Icon.png",
+        "birthday": "August 26th"
+    },
+    {
+        "name": "Rosie",
+        "name-href": "https://nookipedia.com/wiki/Rosie",
+        "villager-img-src": "https://nookipedia.com/w/images/6/67/Rosie_NH.png",
+        "birthday": "February 27th"
+    },
+    {
+        "name": "Hambo",
+        "name-href": "https://nookipedia.com/wiki/Hambo",
+        "villager-img-src": "https://nookipedia.com/w/images/a/a8/Hambo_PG.png",
+        "birthday": null
+    },
+    {
+        "name": "Boomer",
+        "name-href": "https://nookipedia.com/wiki/Boomer",
+        "villager-img-src": "https://nookipedia.com/w/images/6/6e/Cherry_PG_Icon.png",
+        "birthday": "February 7th"
+    },
+    {
+        "name": "Curt",
+        "name-href": "https://nookipedia.com/wiki/Curt",
+        "villager-img-src": "https://nookipedia.com/w/images/2/24/Curt_NLa.png",
+        "birthday": "July 1"
+    },
+    {
+        "name": "Tom",
+        "name-href": "https://nookipedia.com/wiki/Tom",
+        "villager-img-src": "https://nookipedia.com/w/images/8/88/Tom_NLa.png",
+        "birthday": "December 10th"
+    },
+    {
+        "name": "Deli",
+        "name-href": "https://nookipedia.com/wiki/Deli",
+        "villager-img-src": "https://nookipedia.com/w/images/5/53/Deli_NL.png",
+        "birthday": "May 24th"
+    },
+    {
+        "name": "Pecan",
+        "name-href": "https://nookipedia.com/wiki/Pecan",
+        "villager-img-src": "https://nookipedia.com/w/images/9/94/Pecan_NLa.png",
+        "birthday": "September 10th"
+    },
+    {
+        "name": "Ankha",
+        "name-href": "https://nookipedia.com/wiki/Ankha",
+        "villager-img-src": "https://nookipedia.com/w/images/thumb/7/7e/Ankha_NLa.png/175px-Ankha_NLa.png",
+        "birthday": "September 22nd"
+    },
+    {
+        "name": "Ava",
+        "name-href": "https://nookipedia.com/wiki/Ava",
+        "villager-img-src": "https://nookipedia.com/w/images/c/c8/Ava_NLa.png",
+        "birthday": "April 28th"
+    },
+    {
+        "name": "Yodel",
+        "name-href": "https://nookipedia.com/wiki/Yodel",
+        "villager-img-src": "https://nookipedia.com/w/images/5/52/Apple_PG_Icon.png",
+        "birthday": null
+    },
+    {
+        "name": "O'Hare",
+        "name-href": "https://nookipedia.com/wiki/O%27Hare",
+        "villager-img-src": "https://nookipedia.com/w/images/4/4e/Smallxmark.png",
+        "birthday": "July 24th"
+    },
+    {
+        "name": "Maelle",
+        "name-href": "https://nookipedia.com/wiki/Maelle",
+        "villager-img-src": "https://nookipedia.com/w/images/4/4e/Smallxmark.png",
+        "birthday": "April 8th"
+    },
+    {
+        "name": "Violet",
+        "name-href": "https://nookipedia.com/wiki/Violet",
+        "villager-img-src": "https://nookipedia.com/w/images/thumb/4/41/Violet_NLa.png/175px-Violet_NLa.png",
+        "birthday": "September 1st"
+    },
+    {
+        "name": "Faith",
+        "name-href": "https://nookipedia.com/wiki/Faith",
+        "villager-img-src": "https://nookipedia.com/w/images/7/73/Faith_PG.png",
+        "birthday": null
+    },
+    {
+        "name": "Rowan",
+        "name-href": "https://nookipedia.com/wiki/Rowan",
+        "villager-img-src": "https://nookipedia.com/w/images/5/52/Apple_PG_Icon.png",
+        "birthday": "August 26th"
+    },
+    {
+        "name": "Gladys",
+        "name-href": "https://nookipedia.com/wiki/Gladys",
+        "villager-img-src": "https://nookipedia.com/w/images/3/35/Gladys_NH.png",
+        "birthday": "January 15th"
+    },
+    {
+        "name": "Megan",
+        "name-href": "https://nookipedia.com/wiki/Megan",
+        "villager-img-src": "https://nookipedia.com/w/images/a/af/Megan_Render.png",
+        "birthday": null
+    },
+    {
+        "name": "Bree",
+        "name-href": "https://nookipedia.com/wiki/Bree",
+        "villager-img-src": "https://nookipedia.com/w/images/0/0e/Bree_NLa.png",
+        "birthday": "July 7th"
+    },
+    {
+        "name": "Dom",
+        "name-href": "https://nookipedia.com/wiki/Dom",
+        "villager-img-src": "https://nookipedia.com/w/images/7/75/Dom_NH.png",
+        "birthday": null
+    },
+    {
+        "name": "Tabby",
+        "name-href": "https://nookipedia.com/wiki/Tabby",
+        "villager-img-src": "https://nookipedia.com/w/images/c/c6/Tabby_NLa.png",
+        "birthday": "August 13th"
+    },
+    {
+        "name": "Spork",
+        "name-href": "https://nookipedia.com/wiki/Spork",
+        "villager-img-src": "https://nookipedia.com/w/images/1/11/Spork_NLa.png",
+        "birthday": "September 3rd"
+    },
+    {
+        "name": "Dobie",
+        "name-href": "https://nookipedia.com/wiki/Dobie",
+        "villager-img-src": "https://nookipedia.com/w/images/f/fa/Smallcheckmark.png",
+        "birthday": null
+    },
+    {
+        "name": "Iggy",
+        "name-href": "https://nookipedia.com/wiki/Iggy",
+        "villager-img-src": "https://nookipedia.com/w/images/4/44/Iggy_PG.png",
+        "birthday": null
+    },
+    {
+        "name": "Holden",
+        "name-href": "https://nookipedia.com/wiki/Holden",
+        "villager-img-src": "https://nookipedia.com/w/images/9/96/Holden_NL.png",
+        "birthday": "June 11th"
+    },
+    {
+        "name": "Boomer",
+        "name-href": "https://nookipedia.com/wiki/Boomer",
+        "villager-img-src": "https://nookipedia.com/w/images/4/4e/Smallxmark.png",
+        "birthday": "February 7th"
+    },
+    {
+        "name": "Cherry",
+        "name-href": "https://nookipedia.com/wiki/Cherry_(dog)",
+        "villager-img-src": "https://nookipedia.com/w/images/3/32/Cherry_NLa.png",
+        "birthday": "May 11th"
+    },
+    {
+        "name": "Frank",
+        "name-href": "https://nookipedia.com/wiki/Frank",
+        "villager-img-src": "https://nookipedia.com/w/images/a/a9/Frank_NL.png",
+        "birthday": "July 30th"
+    },
+    {
+        "name": "Chuck",
+        "name-href": "https://nookipedia.com/wiki/Chuck",
+        "villager-img-src": "https://nookipedia.com/w/images/b/b8/Chuck_PG.png",
+        "birthday": null
+    },
+    {
+        "name": "Puck",
+        "name-href": "https://nookipedia.com/wiki/Puck",
+        "villager-img-src": "https://nookipedia.com/w/images/b/bc/Puck_NLa.png",
+        "birthday": "February 21st"
+    },
+    {
+        "name": "Filly",
+        "name-href": "https://nookipedia.com/wiki/Filly",
+        "villager-img-src": "https://nookipedia.com/w/images/0/03/Filly_HHD.png",
+        "birthday": "July 11th"
+    },
+    {
+        "name": "Chelsea",
+        "name-href": "https://nookipedia.com/wiki/Chelsea",
+        "villager-img-src": "https://nookipedia.com/w/images/9/9f/Chelsea_NL_2.png",
+        "birthday": "January 18th"
+    },
+    {
+        "name": "Maelle",
+        "name-href": "https://nookipedia.com/wiki/Maelle",
+        "villager-img-src": "https://nookipedia.com/w/images/f/fa/Smallcheckmark.png",
+        "birthday": "April 8th"
+    },
+    {
+        "name": "Buzz",
+        "name-href": "https://nookipedia.com/wiki/Buzz",
+        "villager-img-src": "https://nookipedia.com/w/images/6/6d/Buzz_NL.png",
+        "birthday": null
+    },
+    {
+        "name": "Peaches",
+        "name-href": "https://nookipedia.com/wiki/Peaches",
+        "villager-img-src": "https://nookipedia.com/w/images/2/2f/Peaches_NLa.png",
+        "birthday": "November 28th"
+    },
+    {
+        "name": "Maelle",
+        "name-href": "https://nookipedia.com/wiki/Maelle",
+        "villager-img-src": "https://nookipedia.com/w/images/5/52/Apple_PG_Icon.png",
+        "birthday": "April 8th"
+    },
+    {
+        "name": "Nan",
+        "name-href": "https://nookipedia.com/wiki/Nan",
+        "villager-img-src": "https://nookipedia.com/w/images/5/5d/Nan_NLa.png",
+        "birthday": "August 24th"
+    },
+    {
+        "name": "Grizzly",
+        "name-href": "https://nookipedia.com/wiki/Grizzly",
+        "villager-img-src": "https://nookipedia.com/w/images/8/88/Grizzly_NLa.png",
+        "birthday": "July 31"
+    },
+    {
+        "name": "Chief",
+        "name-href": "https://nookipedia.com/wiki/Chief",
+        "villager-img-src": "https://nookipedia.com/w/images/7/73/Chief_NLa.png",
+        "birthday": "December 19th"
+    },
+    {
+        "name": "Dobie",
+        "name-href": "https://nookipedia.com/wiki/Dobie",
+        "villager-img-src": "https://nookipedia.com/w/images/c/cc/Dobie_NL.png",
+        "birthday": null
+    },
+    {
+        "name": "Anchovy",
+        "name-href": "https://nookipedia.com/wiki/Anchovy",
+        "villager-img-src": "https://nookipedia.com/w/images/4/46/Anchovy_NLa.png",
+        "birthday": "March 4th"
+    },
+    {
+        "name": "Champagne",
+        "name-href": "https://nookipedia.com/wiki/Champagne",
+        "villager-img-src": "https://nookipedia.com/w/images/thumb/b/b6/Champagne_DnMe%2B2.png/100px-Champagne_DnMe%2B2.png",
+        "birthday": null
+    },
+    {
+        "name": "Renée",
+        "name-href": "https://nookipedia.com/wiki/Ren%C3%A9e",
+        "villager-img-src": "https://nookipedia.com/w/images/3/35/Renee_NL.png",
+        "birthday": "May 28th"
+    },
+    {
+        "name": "Zell",
+        "name-href": "https://nookipedia.com/wiki/Zell",
+        "villager-img-src": "https://nookipedia.com/w/images/thumb/e/e8/Zell_NLa.png/175px-Zell_NLa.png",
+        "birthday": "June 7th"
+    },
+    {
+        "name": "Sunny",
+        "name-href": "https://nookipedia.com/wiki/Sunny",
+        "villager-img-src": "https://nookipedia.com/w/images/4/48/Sunny_DnMe%2B.png",
+        "birthday": null
+    },
+    {
+        "name": "Jacob",
+        "name-href": "https://nookipedia.com/wiki/Jacob",
+        "villager-img-src": "https://nookipedia.com/w/images/d/da/Jacob_NL.png",
+        "birthday": "August 24th"
+    },
+    {
+        "name": "Elmer",
+        "name-href": "https://nookipedia.com/wiki/Elmer",
+        "villager-img-src": "https://nookipedia.com/w/images/c/ce/Elmer_NLa.png",
+        "birthday": "October 5th"
+    },
+    {
+        "name": "Limberg",
+        "name-href": "https://nookipedia.com/wiki/Limberg",
+        "villager-img-src": "https://nookipedia.com/w/images/3/3e/Limberg_NLa.png",
+        "birthday": "October 17th"
+    },
+    {
+        "name": "Petunia",
+        "name-href": "https://nookipedia.com/wiki/Petunia_(cow)",
+        "villager-img-src": "https://nookipedia.com/w/images/5/52/Petunia_PG.png",
+        "birthday": null
+    },
+    {
+        "name": "Annalise",
+        "name-href": "https://nookipedia.com/wiki/Annalise",
+        "villager-img-src": "https://nookipedia.com/w/images/9/9f/Orange_PG_Icon.png",
+        "birthday": "December 2nd"
+    },
+    {
+        "name": "Flash",
+        "name-href": "https://nookipedia.com/wiki/Flash",
+        "villager-img-src": "https://nookipedia.com/w/images/b/b5/Flash_PG.png",
+        "birthday": null
+    },
+    {
+        "name": "Mac",
+        "name-href": "https://nookipedia.com/wiki/Mac",
+        "villager-img-src": "https://nookipedia.com/w/images/8/8d/Mac_NLa.png",
+        "birthday": "November 11th"
+    },
+    {
+        "name": "Emerald",
+        "name-href": "https://nookipedia.com/wiki/Emerald",
+        "villager-img-src": "https://nookipedia.com/w/images/2/2f/Emerald_PG.png",
+        "birthday": null
+    },
+    {
+        "name": "Daisy",
+        "name-href": "https://nookipedia.com/wiki/Daisy",
+        "villager-img-src": "https://nookipedia.com/w/images/9/9b/Daisy_NLa.png",
+        "birthday": "November 16th"
+    },
+    {
+        "name": "Epona",
+        "name-href": "https://nookipedia.com/wiki/Epona",
+        "villager-img-src": "https://nookipedia.com/w/images/d/da/Epona_NL_Model.png",
+        "birthday": "November 21st"
+    },
+    {
+        "name": "Rod",
+        "name-href": "https://nookipedia.com/wiki/Rod",
+        "villager-img-src": "https://nookipedia.com/w/images/e/ea/Rod_NH.png",
+        "birthday": "August 14th"
+    },
+    {
+        "name": "Tipper",
+        "name-href": "https://nookipedia.com/wiki/Tipper",
+        "villager-img-src": "https://nookipedia.com/w/images/thumb/0/0f/Tipper_NLa.png/175px-Tipper_NLa.png",
+        "birthday": "August 25th"
+    },
+    {
+        "name": "Pate",
+        "name-href": "https://nookipedia.com/wiki/Pate",
+        "villager-img-src": "https://nookipedia.com/w/images/b/b2/Pate_NLa.png",
+        "birthday": "February 23rd"
+    },
+    {
+        "name": "Zucker",
+        "name-href": "https://nookipedia.com/wiki/Zucker",
+        "villager-img-src": "https://nookipedia.com/w/images/1/19/Zucker_NL.png",
+        "birthday": "March 8th"
+    },
+    {
+        "name": "Peck",
+        "name-href": "https://nookipedia.com/wiki/Peck",
+        "villager-img-src": "https://nookipedia.com/w/images/8/88/Peck_NL.png",
+        "birthday": "July 25th"
+    },
+    {
+        "name": "Gonzo",
+        "name-href": "https://nookipedia.com/wiki/Gonzo",
+        "villager-img-src": "https://nookipedia.com/w/images/7/7a/Gonzo_NL.png",
+        "birthday": null
+    },
+    {
+        "name": "Ellie",
+        "name-href": "https://nookipedia.com/wiki/Ellie",
+        "villager-img-src": "https://nookipedia.com/w/images/d/dc/Ellie_NL.png",
+        "birthday": "May 12th"
+    },
+    {
+        "name": "Bud",
+        "name-href": "https://nookipedia.com/wiki/Bud",
+        "villager-img-src": "https://nookipedia.com/w/images/4/4e/Smallxmark.png",
+        "birthday": "August 8th"
+    },
+    {
+        "name": "Kody",
+        "name-href": "https://nookipedia.com/wiki/Kody",
+        "villager-img-src": "https://nookipedia.com/w/images/4/4c/Kody_NLa.png",
+        "birthday": "September 28th"
+    },
+    {
+        "name": "Phil",
+        "name-href": "https://nookipedia.com/wiki/Phil",
+        "villager-img-src": "https://nookipedia.com/w/images/8/80/Phil_NL.png",
+        "birthday": "November 27th"
+    },
+    {
+        "name": "Rasher",
+        "name-href": "https://nookipedia.com/wiki/Rasher",
+        "villager-img-src": "https://nookipedia.com/w/images/e/e1/Rasher_NLa.png",
+        "birthday": "April 7th"
+    },
+    {
+        "name": "Marcie",
+        "name-href": "https://nookipedia.com/wiki/Marcie",
+        "villager-img-src": "https://nookipedia.com/w/images/thumb/5/54/Marcie_NL.png/200px-Marcie_NL.png",
+        "birthday": "May 31st"
+    },
+    {
+        "name": "Fang",
+        "name-href": "https://nookipedia.com/wiki/Fang",
+        "villager-img-src": "https://nookipedia.com/w/images/9/9d/Fang_NH.png",
+        "birthday": "December 18th"
+    },
+    {
+        "name": "Sandy",
+        "name-href": "https://nookipedia.com/wiki/Sandy",
+        "villager-img-src": "https://nookipedia.com/w/images/thumb/f/fa/Sandy_NL.png/200px-Sandy_NL.png",
+        "birthday": "October 21st"
+    },
+    {
+        "name": "Bitty",
+        "name-href": "https://nookipedia.com/wiki/Bitty",
+        "villager-img-src": "https://nookipedia.com/w/images/thumb/a/a6/Bitty_NL.png/200px-Bitty_NL.png",
+        "birthday": "October 6th"
+    },
+    {
+        "name": "Savannah",
+        "name-href": "https://nookipedia.com/wiki/Savannah",
+        "villager-img-src": "https://nookipedia.com/w/images/2/29/Savannah_NLa.png",
+        "birthday": "January 25th"
+    },
+    {
+        "name": "Pietro",
+        "name-href": "https://nookipedia.com/wiki/Pietro",
+        "villager-img-src": "https://nookipedia.com/w/images/5/5e/Pietro_NL.png",
+        "birthday": "April 19th"
+    },
+    {
+        "name": "Apple",
+        "name-href": "https://nookipedia.com/wiki/Apple",
+        "villager-img-src": "https://nookipedia.com/w/images/e/ea/Apple_NL.png",
+        "birthday": "September 24th"
+    },
+    {
+        "name": "W. Link",
+        "name-href": "https://nookipedia.com/wiki/W._Link",
+        "villager-img-src": "https://nookipedia.com/w/images/thumb/3/3d/W._Link_NL_Model.png/100px-W._Link_NL_Model.png",
+        "birthday": "December 2nd"
+    },
+    {
+        "name": "Tiara",
+        "name-href": "https://nookipedia.com/wiki/Tiara",
+        "villager-img-src": "https://nookipedia.com/w/images/1/14/Tiara_PG.png",
+        "birthday": null
+    },
+    {
+        "name": "Willow",
+        "name-href": "https://nookipedia.com/wiki/Willow",
+        "villager-img-src": "https://nookipedia.com/w/images/f/f6/Willow_NLa.png",
+        "birthday": "November 26th"
+    },
+    {
+        "name": "Francine",
+        "name-href": "https://nookipedia.com/wiki/Francine",
+        "villager-img-src": "https://nookipedia.com/w/images/3/33/Francine_NLa.png",
+        "birthday": "January 22nd"
+    },
+    {
+        "name": "Moe",
+        "name-href": "https://nookipedia.com/wiki/Moe",
+        "villager-img-src": "https://nookipedia.com/w/images/d/d6/Moe_NLa.png",
+        "birthday": "January 12th"
+    },
+    {
+        "name": "Ankha",
+        "name-href": "https://nookipedia.com/wiki/Ankha",
+        "villager-img-src": "https://nookipedia.com/w/images/5/52/Apple_PG_Icon.png",
+        "birthday": "September 22nd"
+    },
+    {
+        "name": "Papi",
+        "name-href": "https://nookipedia.com/wiki/Papi",
+        "villager-img-src": "https://nookipedia.com/w/images/thumb/1/10/Papi_NL.png/200px-Papi_NL.png",
+        "birthday": "January 10th"
+    },
+    {
+        "name": "Merengue",
+        "name-href": "https://nookipedia.com/wiki/Merengue",
+        "villager-img-src": "https://nookipedia.com/w/images/8/84/Merengue_NLa.png",
+        "birthday": "March 19th"
+    },
+    {
+        "name": "Chow",
+        "name-href": "https://nookipedia.com/wiki/Chow",
+        "villager-img-src": "https://nookipedia.com/w/images/9/97/Chow_NLa.png",
+        "birthday": "July 22"
+    },
+    {
+        "name": "Alice",
+        "name-href": "https://nookipedia.com/wiki/Alice",
+        "villager-img-src": "https://nookipedia.com/w/images/7/7e/Alice_NLa.png",
+        "birthday": "August 19th"
+    },
+    {
+        "name": "Whitney",
+        "name-href": "https://nookipedia.com/wiki/Whitney",
+        "villager-img-src": "https://nookipedia.com/w/images/6/69/Whitney_NH_2.png",
+        "birthday": "September 17th"
+    },
+    {
+        "name": "Skye",
+        "name-href": "https://nookipedia.com/wiki/Skye",
+        "villager-img-src": "https://nookipedia.com/w/images/a/a9/Skye_NL.png",
+        "birthday": "March 24th"
+    },
+    {
+        "name": "Gaston",
+        "name-href": "https://nookipedia.com/wiki/Gaston",
+        "villager-img-src": "https://nookipedia.com/w/images/b/bb/Gaston_NLa.png",
+        "birthday": "October 28th"
+    },
+    {
+        "name": "Biff",
+        "name-href": "https://nookipedia.com/wiki/Biff",
+        "villager-img-src": "https://nookipedia.com/w/images/c/c8/Biff_NLa.png",
+        "birthday": "March 29th"
+    },
+    {
+        "name": "Bud",
+        "name-href": "https://nookipedia.com/wiki/Bud",
+        "villager-img-src": "https://nookipedia.com/w/images/8/83/Bud_NLa.png",
+        "birthday": "August 8th"
+    },
+    {
+        "name": "Hector",
+        "name-href": "https://nookipedia.com/wiki/Hector",
+        "villager-img-src": "https://nookipedia.com/w/images/6/6e/Hector_PG.png",
+        "birthday": null
+    },
+    {
+        "name": "Pippy",
+        "name-href": "https://nookipedia.com/wiki/Pippy",
+        "villager-img-src": "https://nookipedia.com/w/images/6/64/Pippy_NLa.png",
+        "birthday": "June 14th"
+    },
+    {
+        "name": "Clyde",
+        "name-href": "https://nookipedia.com/wiki/Clyde",
+        "villager-img-src": "https://nookipedia.com/w/images/0/0a/Clyde_NLa.png",
+        "birthday": "May 1st"
+    },
+    {
+        "name": "Bea",
+        "name-href": "https://nookipedia.com/wiki/Bea",
+        "villager-img-src": "https://nookipedia.com/w/images/5/57/Bea_NL.png",
+        "birthday": "October 15th"
+    },
+    {
+        "name": "Quetzal",
+        "name-href": "https://nookipedia.com/wiki/Quetzal",
+        "villager-img-src": "https://nookipedia.com/w/images/8/8e/Quetzal_PG.png",
+        "birthday": null
+    },
+    {
+        "name": "Bella",
+        "name-href": "https://nookipedia.com/wiki/Bella",
+        "villager-img-src": "https://nookipedia.com/w/images/1/1b/Bella_NLa.png",
+        "birthday": "December 28th"
+    },
+    {
+        "name": "Bob",
+        "name-href": "https://nookipedia.com/wiki/Bob",
+        "villager-img-src": "https://nookipedia.com/w/images/7/79/Bob_NLa.png",
+        "birthday": "January 1st"
+    },
+    {
+        "name": "Jitters",
+        "name-href": "https://nookipedia.com/wiki/Jitters",
+        "villager-img-src": "https://nookipedia.com/w/images/e/e4/Jitters_NLa.png",
+        "birthday": "February 2nd"
+    },
+    {
+        "name": "Nana",
+        "name-href": "https://nookipedia.com/wiki/Nana",
+        "villager-img-src": "https://nookipedia.com/w/images/thumb/4/46/Nana_NLa.png/175px-Nana_NLa.png",
+        "birthday": "August 23rd"
+    },
+    {
+        "name": "Julian",
+        "name-href": "https://nookipedia.com/wiki/Julian",
+        "villager-img-src": "https://nookipedia.com/w/images/4/43/Julian_NL.png",
+        "birthday": "March 15th"
+    },
+    {
+        "name": "Molly",
+        "name-href": "https://nookipedia.com/wiki/Molly",
+        "villager-img-src": "https://nookipedia.com/w/images/2/29/Molly_NH.png",
+        "birthday": "March 7"
+    },
+    {
+        "name": "Marina",
+        "name-href": "https://nookipedia.com/wiki/Marina",
+        "villager-img-src": "https://nookipedia.com/w/images/c/c4/Marina_NLa.png",
+        "birthday": "June 26th"
+    },
+    {
+        "name": "Felicity",
+        "name-href": "https://nookipedia.com/wiki/Felicity",
+        "villager-img-src": "https://nookipedia.com/w/images/5/5e/Felicity_NLa.png",
+        "birthday": "March 30th"
+    },
+    {
+        "name": "Moose",
+        "name-href": "https://nookipedia.com/wiki/Moose",
+        "villager-img-src": "https://nookipedia.com/w/images/thumb/c/c1/Moose_NLa.png/175px-Moose_NLa.png",
+        "birthday": "September 13th"
+    },
+    {
+        "name": "Jacques",
+        "name-href": "https://nookipedia.com/wiki/Jacques",
+        "villager-img-src": "https://nookipedia.com/w/images/9/99/Jacques_NL.png",
+        "birthday": "June 22nd"
+    },
+    {
+        "name": "Gigi",
+        "name-href": "https://nookipedia.com/wiki/Gigi",
+        "villager-img-src": "https://nookipedia.com/w/images/9/9c/Gigi_NLa.png",
+        "birthday": "August 11th"
+    },
+    {
+        "name": "Truffles",
+        "name-href": "https://nookipedia.com/wiki/Truffles",
+        "villager-img-src": "https://nookipedia.com/w/images/9/9b/Truffles_NLa.png",
+        "birthday": "July 28th"
+    },
+    {
+        "name": "Rodney",
+        "name-href": "https://nookipedia.com/wiki/Rodney",
+        "villager-img-src": "https://nookipedia.com/w/images/f/f0/Rodney_NL.png",
+        "birthday": "November 10th"
+    },
+    {
+        "name": "Julia",
+        "name-href": "https://nookipedia.com/wiki/Julia",
+        "villager-img-src": "https://nookipedia.com/w/images/6/6f/Julia_NL.png",
+        "birthday": "July 31st"
+    },
+    {
+        "name": "Ankha",
+        "name-href": "https://nookipedia.com/wiki/Ankha",
+        "villager-img-src": "https://nookipedia.com/w/images/4/4e/Smallxmark.png",
+        "birthday": "September 22nd"
+    },
+    {
+        "name": "Tarou",
+        "name-href": "https://nookipedia.com/wiki/Tarou",
+        "villager-img-src": "https://nookipedia.com/w/images/d/dd/Tarou_DnMe%2B.png",
+        "birthday": null
+    },
+    {
+        "name": "Sparro",
+        "name-href": "https://nookipedia.com/wiki/Sparro",
+        "villager-img-src": "https://nookipedia.com/w/images/7/79/Sparro_NL.png",
+        "birthday": "November 20th"
+    },
+    {
+        "name": "Kiki",
+        "name-href": "https://nookipedia.com/wiki/Kiki",
+        "villager-img-src": "https://nookipedia.com/w/images/8/8f/Kiki_NLa.png",
+        "birthday": "October 8th"
+    },
+    {
+        "name": "Rooney",
+        "name-href": "https://nookipedia.com/wiki/Rooney",
+        "villager-img-src": "https://nookipedia.com/w/images/b/be/Rooney_NL.png",
+        "birthday": "December 1st"
+    },
+    {
+        "name": "Belle",
+        "name-href": "https://nookipedia.com/wiki/Belle",
+        "villager-img-src": "https://nookipedia.com/w/images/c/c1/Belle_PG.png",
+        "birthday": null
+    },
+    {
+        "name": "Nobuo",
+        "name-href": "https://nookipedia.com/wiki/Nobuo",
+        "villager-img-src": "https://nookipedia.com/w/images/6/62/Nobuo_DnMe%2B.png",
+        "birthday": null
+    },
+    {
+        "name": "Freya",
+        "name-href": "https://nookipedia.com/wiki/Freya",
+        "villager-img-src": "https://nookipedia.com/w/images/0/06/Freya_NH_2.png",
+        "birthday": "December 14th"
+    },
+    {
+        "name": "Bunnie",
+        "name-href": "https://nookipedia.com/wiki/Bunnie",
+        "villager-img-src": "https://nookipedia.com/w/images/b/b2/Bunnie_NH.png",
+        "birthday": "May 9th"
+    },
+    {
+        "name": "Pigleg",
+        "name-href": "https://nookipedia.com/wiki/Pigleg",
+        "villager-img-src": "https://nookipedia.com/w/images/4/4e/Smallxmark.png",
+        "birthday": null
+    },
+    {
+        "name": "Bubbles",
+        "name-href": "https://nookipedia.com/wiki/Bubbles",
+        "villager-img-src": "https://nookipedia.com/w/images/b/b7/Bubbles_NLa.png",
+        "birthday": "September 18th"
+    },
+    {
+        "name": "Flossie",
+        "name-href": "https://nookipedia.com/wiki/Flossie",
+        "villager-img-src": "https://nookipedia.com/w/images/4/4e/Smallxmark.png",
+        "birthday": null
+    },
+    {
+        "name": "Clara",
+        "name-href": "https://nookipedia.com/wiki/Clara",
+        "villager-img-src": "https://nookipedia.com/w/images/6/6a/Clara_DnMe%2B.png",
+        "birthday": null
+    },
+    {
+        "name": "Portia",
+        "name-href": "https://nookipedia.com/wiki/Portia",
+        "villager-img-src": "https://nookipedia.com/w/images/thumb/5/5c/Portia_NLa.png/200px-Portia_NLa.png",
+        "birthday": "October 25th"
+    },
+    {
+        "name": "Ed",
+        "name-href": "https://nookipedia.com/wiki/Ed",
+        "villager-img-src": "https://nookipedia.com/w/images/1/16/Ed_NLa.png",
+        "birthday": "September 16th"
+    },
+    {
+        "name": "Blaire",
+        "name-href": "https://nookipedia.com/wiki/Blaire",
+        "villager-img-src": "https://nookipedia.com/w/images/thumb/c/cc/Blaire_NLa.png/175px-Blaire_NLa.png",
+        "birthday": "July 3rd"
+    },
+    {
+        "name": "Audie",
+        "name-href": "https://nookipedia.com/wiki/Audie",
+        "villager-img-src": "https://nookipedia.com/w/images/1/1b/Audie_NH.png",
+        "birthday": null
+    },
+    {
+        "name": "Tad",
+        "name-href": "https://nookipedia.com/wiki/Tad",
+        "villager-img-src": "https://nookipedia.com/w/images/b/b5/Tad_NL.png",
+        "birthday": "August 3rd"
+    },
+    {
+        "name": "Rio",
+        "name-href": "https://nookipedia.com/wiki/Rio",
+        "villager-img-src": "https://nookipedia.com/w/images/6/63/Rio_PG.png",
+        "birthday": null
+    },
+    {
+        "name": "Jane",
+        "name-href": "https://nookipedia.com/wiki/Jane",
+        "villager-img-src": "https://nookipedia.com/w/images/0/04/Jane_PG.png",
+        "birthday": null
+    },
+    {
+        "name": "Tank",
+        "name-href": "https://nookipedia.com/wiki/Tank",
+        "villager-img-src": "https://nookipedia.com/w/images/thumb/d/d9/Tank_NH.png/175px-Tank_NH.png",
+        "birthday": "May 6th"
+    },
+    {
+        "name": "Eunice",
+        "name-href": "https://nookipedia.com/wiki/Eunice",
+        "villager-img-src": "https://nookipedia.com/w/images/thumb/8/8f/Eunice_NLa.png/175px-Eunice_NLa.png",
+        "birthday": "April 3rd"
+    },
+    {
+        "name": "Otis",
+        "name-href": "https://nookipedia.com/wiki/Otis",
+        "villager-img-src": "https://nookipedia.com/w/images/8/80/Otis_PG.png",
+        "birthday": null
+    },
+    {
+        "name": "Wart Jr.",
+        "name-href": "https://nookipedia.com/wiki/Wart_Jr.",
+        "villager-img-src": "https://nookipedia.com/w/images/5/50/Wart_Jr._NLa.png",
+        "birthday": "August 21st"
+    },
+    {
+        "name": "Bluebear",
+        "name-href": "https://nookipedia.com/wiki/Bluebear",
+        "villager-img-src": "https://nookipedia.com/w/images/2/25/Bluebear_NLa.png",
+        "birthday": "June 24th"
+    },
+    {
+        "name": "Jūbei",
+        "name-href": "https://nookipedia.com/wiki/J%C5%ABbei",
+        "villager-img-src": "https://nookipedia.com/w/images/d/dd/J%C5%ABbei_DnMe%2B.png",
+        "birthday": null
+    },
+    {
+        "name": "Faith",
+        "name-href": "https://nookipedia.com/wiki/Faith",
+        "villager-img-src": "https://nookipedia.com/w/images/4/4e/Smallxmark.png",
+        "birthday": null
+    },
+    {
+        "name": "Shari",
+        "name-href": "https://nookipedia.com/wiki/Shari",
+        "villager-img-src": "https://nookipedia.com/w/images/8/87/Shari_NL.png",
+        "birthday": "April 10th"
+    },
+    {
+        "name": "Yodel",
+        "name-href": "https://nookipedia.com/wiki/Yodel",
+        "villager-img-src": "https://nookipedia.com/w/images/4/4e/Smallxmark.png",
+        "birthday": null
+    },
+    {
+        "name": "Canberra",
+        "name-href": "https://nookipedia.com/wiki/Canberra",
+        "villager-img-src": "https://nookipedia.com/w/images/a/af/Canberra_NL.png",
+        "birthday": "May 14th"
+    },
+    {
+        "name": "Wade",
+        "name-href": "https://nookipedia.com/wiki/Wade",
+        "villager-img-src": "https://nookipedia.com/w/images/e/eb/Wade_NLa.png",
+        "birthday": null
+    },
+    {
+        "name": "Boomer",
+        "name-href": "https://nookipedia.com/wiki/Boomer",
+        "villager-img-src": "https://nookipedia.com/w/images/7/76/Boomer_NLa.png",
+        "birthday": "February 7th"
+    },
+    {
+        "name": "Katt",
+        "name-href": "https://nookipedia.com/wiki/Katt",
+        "villager-img-src": "https://nookipedia.com/w/images/1/15/Katt_NL.png",
+        "birthday": "April 27th"
+    },
+    {
+        "name": "Gala",
+        "name-href": "https://nookipedia.com/wiki/Gala",
+        "villager-img-src": "https://nookipedia.com/w/images/0/05/Gala_NLa.png",
+        "birthday": "March 5th"
+    },
+    {
+        "name": "Winnie",
+        "name-href": "https://nookipedia.com/wiki/Winnie",
+        "villager-img-src": "https://nookipedia.com/w/images/a/a9/Winnie_NLa.png",
+        "birthday": "January 31st"
+    },
+    {
+        "name": "Iggly",
+        "name-href": "https://nookipedia.com/wiki/Iggly",
+        "villager-img-src": "https://nookipedia.com/w/images/b/bd/Iggly_NLa.png",
+        "birthday": "November 2nd"
+    },
+    {
+        "name": "Flip",
+        "name-href": "https://nookipedia.com/wiki/Flip",
+        "villager-img-src": "https://nookipedia.com/w/images/c/c3/Flip_NH.png",
+        "birthday": "November 21st"
+    },
+    {
+        "name": "Judy",
+        "name-href": "https://nookipedia.com/wiki/Judy",
+        "villager-img-src": "https://nookipedia.com/w/images/d/d4/Judy_NH.png",
+        "birthday": null
+    },
+    {
+        "name": "Ike",
+        "name-href": "https://nookipedia.com/wiki/Ike",
+        "villager-img-src": "https://nookipedia.com/w/images/6/62/Ike_NL.png",
+        "birthday": "May 16th"
+    },
+    {
+        "name": "Maelle",
+        "name-href": "https://nookipedia.com/wiki/Maelle",
+        "villager-img-src": "https://nookipedia.com/w/images/9/9f/Orange_PG_Icon.png",
+        "birthday": "April 8th"
+    },
+    {
+        "name": "Cobb",
+        "name-href": "https://nookipedia.com/wiki/Cobb",
+        "villager-img-src": "https://nookipedia.com/w/images/1/1e/Cobb_NLa.png",
+        "birthday": "October 7th"
+    },
+    {
+        "name": "Plucky",
+        "name-href": "https://nookipedia.com/wiki/Plucky",
+        "villager-img-src": "https://nookipedia.com/w/images/5/56/Plucky_NL.png",
+        "birthday": null
+    },
+    {
+        "name": "Freckles",
+        "name-href": "https://nookipedia.com/wiki/Freckles",
+        "villager-img-src": "https://nookipedia.com/w/images/1/19/Freckles_NLa.png",
+        "birthday": "February 19th"
+    },
+    {
+        "name": "Leonardo",
+        "name-href": "https://nookipedia.com/wiki/Leonardo",
+        "villager-img-src": "https://nookipedia.com/w/images/1/19/Leonardo_NL.png",
+        "birthday": "May 15th"
+    },
+    {
+        "name": "O'Hare",
+        "name-href": "https://nookipedia.com/wiki/O%27Hare",
+        "villager-img-src": "https://nookipedia.com/w/images/0/07/Peach_PG_Icon.png",
+        "birthday": "July 24th"
+    },
+    {
+        "name": "Caroline",
+        "name-href": "https://nookipedia.com/wiki/Caroline",
+        "villager-img-src": "https://nookipedia.com/w/images/6/6e/Cherry_PG_Icon.png",
+        "birthday": "July 15th"
+    },
+    {
+        "name": "Becky",
+        "name-href": "https://nookipedia.com/wiki/Becky",
+        "villager-img-src": "https://nookipedia.com/w/images/0/09/Becky_NLa.png",
+        "birthday": "December 9th"
+    },
+    {
+        "name": "Cupcake",
+        "name-href": "https://nookipedia.com/wiki/Cupcake",
+        "villager-img-src": "https://nookipedia.com/w/images/c/c9/Cupcake_PG.png",
+        "birthday": null
+    },
+    {
+        "name": "Boyd",
+        "name-href": "https://nookipedia.com/wiki/Boyd",
+        "villager-img-src": "https://nookipedia.com/w/images/f/fb/Boyd_NL.png",
+        "birthday": "October 1st"
+    },
+    {
+        "name": "Pashmina",
+        "name-href": "https://nookipedia.com/wiki/Pashmina",
+        "villager-img-src": "https://nookipedia.com/w/images/6/6e/Pashmina_NL.png",
+        "birthday": "December 26"
+    },
+    {
+        "name": "Hopper",
+        "name-href": "https://nookipedia.com/wiki/Hopper",
+        "villager-img-src": "https://nookipedia.com/w/images/5/53/Hopper_NLa.png",
+        "birthday": "April 6th"
+    },
+    {
+        "name": "Sylvana",
+        "name-href": "https://nookipedia.com/wiki/Sylvana",
+        "villager-img-src": "https://nookipedia.com/w/images/a/ad/Sylvana_NL.png",
+        "birthday": "October 22nd"
+    },
+    {
+        "name": "Shep",
+        "name-href": "https://nookipedia.com/wiki/Shep",
+        "villager-img-src": "https://nookipedia.com/w/images/4/42/Shep_NL.png",
+        "birthday": "November 24th"
+    },
+    {
+        "name": "Octavian",
+        "name-href": "https://nookipedia.com/wiki/Octavian",
+        "villager-img-src": "https://nookipedia.com/w/images/1/1b/Octavian_NH.png",
+        "birthday": "September 20th"
+    },
+    {
+        "name": "June",
+        "name-href": "https://nookipedia.com/wiki/June_(villager)",
+        "villager-img-src": "https://nookipedia.com/w/images/2/2c/June_NL.png",
+        "birthday": "May 21st"
+    },
+    {
+        "name": "Cyd",
+        "name-href": "https://nookipedia.com/wiki/Cyd",
+        "villager-img-src": "https://nookipedia.com/w/images/5/5d/Cyd_NH.png",
+        "birthday": null
+    },
+    {
+        "name": "Flash",
+        "name-href": "https://nookipedia.com/wiki/Flash",
+        "villager-img-src": "https://nookipedia.com/w/images/5/52/Apple_PG_Icon.png",
+        "birthday": null
+    },
+    {
+        "name": "Prince",
+        "name-href": "https://nookipedia.com/wiki/Prince",
+        "villager-img-src": "https://nookipedia.com/w/images/3/3f/Prince_NLa.png",
+        "birthday": "July 21st"
+    },
+    {
+        "name": "Elina",
+        "name-href": "https://nookipedia.com/wiki/Elina",
+        "villager-img-src": "https://nookipedia.com/w/images/a/ac/Elina_PG.png",
+        "birthday": null
+    },
+    {
+        "name": "Faith",
+        "name-href": "https://nookipedia.com/wiki/Faith",
+        "villager-img-src": "https://nookipedia.com/w/images/7/7a/Pear_PG_Icon.png",
+        "birthday": null
+    },
+    {
+        "name": "Melba",
+        "name-href": "https://nookipedia.com/wiki/Melba",
+        "villager-img-src": "https://nookipedia.com/w/images/4/43/Melba_NH.png",
+        "birthday": "April 12th"
+    },
+    {
+        "name": "Lulu",
+        "name-href": "https://nookipedia.com/wiki/Lulu_(villager)",
+        "villager-img-src": "https://nookipedia.com/w/images/e/ed/Lulu_PG.png",
+        "birthday": null
+    },
+    {
+        "name": "Tangy",
+        "name-href": "https://nookipedia.com/wiki/Tangy",
+        "villager-img-src": "https://nookipedia.com/w/images/6/67/Tangy_NLa.png",
+        "birthday": "June 17th"
+    },
+    {
+        "name": "Snake",
+        "name-href": "https://nookipedia.com/wiki/Snake",
+        "villager-img-src": "https://nookipedia.com/w/images/6/61/Snake_NLa.png",
+        "birthday": "November 3rd"
+    },
+    {
+        "name": "Punchy",
+        "name-href": "https://nookipedia.com/wiki/Punchy",
+        "villager-img-src": "https://nookipedia.com/w/images/f/f0/Punchy_NLa.png",
+        "birthday": "April 11th"
+    },
+    {
+        "name": "Fauna",
+        "name-href": "https://nookipedia.com/wiki/Fauna",
+        "villager-img-src": "https://nookipedia.com/w/images/9/91/Fauna_NH.png",
+        "birthday": "March 26th"
+    },
+    {
+        "name": "Soleil",
+        "name-href": "https://nookipedia.com/wiki/Soleil",
+        "villager-img-src": "https://nookipedia.com/w/images/1/1b/Soleil_NL.png",
+        "birthday": "August 9th"
+    },
+    {
+        "name": "Ankha",
+        "name-href": "https://nookipedia.com/wiki/Ankha",
+        "villager-img-src": "https://nookipedia.com/w/images/f/fa/Smallcheckmark.png",
+        "birthday": "September 22nd"
+    },
+    {
+        "name": "Curlos",
+        "name-href": "https://nookipedia.com/wiki/Curlos",
+        "villager-img-src": "https://nookipedia.com/w/images/thumb/f/f0/Curlos_NLa.png/200px-Curlos_NLa.png",
+        "birthday": "May 8th"
+    },
+    {
+        "name": "O'Hare",
+        "name-href": "https://nookipedia.com/wiki/O%27Hare",
+        "villager-img-src": "https://nookipedia.com/w/images/9/9f/Orange_PG_Icon.png",
+        "birthday": "July 24th"
+    },
+    {
+        "name": "Petunia",
+        "name-href": "https://nookipedia.com/wiki/Petunia_(rhino)",
+        "villager-img-src": "https://nookipedia.com/w/images/thumb/a/aa/Petunia_DnMe%2B.png/100px-Petunia_DnMe%2B.png",
+        "birthday": null
+    },
+    {
+        "name": "Plucky",
+        "name-href": "https://nookipedia.com/wiki/Plucky",
+        "villager-img-src": "https://nookipedia.com/w/images/6/6e/Cherry_PG_Icon.png",
+        "birthday": null
+    },
+    {
+        "name": "Annalise",
+        "name-href": "https://nookipedia.com/wiki/Annalise",
+        "villager-img-src": "https://nookipedia.com/w/images/4/4e/Smallxmark.png",
+        "birthday": "December 2nd"
+    },
+    {
+        "name": "Aisle",
+        "name-href": "https://nookipedia.com/wiki/Aisle",
+        "villager-img-src": "https://nookipedia.com/w/images/2/27/Aisle_DnMe%2B.png",
+        "birthday": null
+    },
+    {
+        "name": "Agnes",
+        "name-href": "https://nookipedia.com/wiki/Agnes",
+        "villager-img-src": "https://nookipedia.com/w/images/5/5c/Agnes_NL.png",
+        "birthday": "April 21st"
+    },
+    {
+        "name": "Lionel",
+        "name-href": "https://nookipedia.com/wiki/Lionel",
+        "villager-img-src": "https://nookipedia.com/w/images/5/58/Lionel_NL.png",
+        "birthday": "July 29th"
+    },
+    {
+        "name": "Marty",
+        "name-href": "https://nookipedia.com/wiki/Marty",
+        "villager-img-src": "https://nookipedia.com/w/images/7/7f/Marty_ACPC.png",
+        "birthday": "April 16th"
+    },
+    {
+        "name": "Sydney",
+        "name-href": "https://nookipedia.com/wiki/Sydney",
+        "villager-img-src": "https://nookipedia.com/w/images/f/f2/Sydney_NLa.png",
+        "birthday": "June 21st"
+    },
+    {
+        "name": "Chadder",
+        "name-href": "https://nookipedia.com/wiki/Chadder",
+        "villager-img-src": "https://nookipedia.com/w/images/8/8d/Chadder_NH_2.png",
+        "birthday": "December 15th"
+    }
+]
